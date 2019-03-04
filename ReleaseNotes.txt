@@ -1,0 +1,2944 @@
+Version 1.0.32-2292	(2019-01-26 00:01:15.290000)
+
+[IR-2419] - Replace RevCaster to OTA Insight API in iRates
+[IR-1856] - Please add "Occ Forecast" line in GUI (and add to Table reports)
+[IR-1673] - Don't save repeating data points in db to avoid db growing
+[IR-2413] - New release 2291
+[IR-1506] - It is need to create timeout break of the gmail.com connetting for the  automatic reporter
+
+Version 1.0.32-2291	(2019-01-09 19:28:46.191000)
+
+[IR-2385] - Current value of rackMax overrides previous rackMax values
+[IR-2386] - Create automatic tests for all scheduler's tasks
+[IR-2244] - Channel allotment block with parity
+[IR-2243] - Overbooking daily limit algorithm implementation
+[IR-2381] - Discount / Markup list update based on price mesh update
+[IR-2409] - Update patterns for Cebu
+[IR-2410] - Update patterns for Hat Yai
+[IR-2411] - Update patterns for Pattaya
+[IR-1748] - update assembly for Woodlands hotel
+[IR-2403] - Update patterns for Pekanbaru
+[IR-2405] - Update patterns for Ermita
+[IR-2406] - Update patterns for Cagayan
+[IR-2407] - Update patterns for Angeles
+[IR-2408] - Update patterns for Davao
+[IR-2404] - Update patterns for Surabaya
+[IR-2402] - Update patterns for Makassar
+[IR-2345] - Create new assembly for Hotel Peter and Paul (Roomkey PMS)
+[IR-2393] - Update patterns for Gotanda
+[IR-2396] - Change http to https access for Red Planet Financial Dashboard
+[IR-2401] - Site Rate grid report does not load for Ocean Villa Inn 
+[IR-2394] - Errors on Manila Bay server
+[IR-2400] - Make a delineation of access rights to hotels in ForecastDashboard
+[IR-1890] - Create new assembly (installer) for INNdulge Palm Springs hotel (RezOvation PMS)
+[IR-2356] - Update patterns for RedPlanetManilaBay hotel
+[IR-2391] - Update patterns for Saporro Susukino hotel
+[IR-2388] - Update patterns for Asakusa
+[IR-2390] - Revise critical properties for all production assemblies
+[IR-2392] - Update patterns for Nishiki Nagoya hotel
+[IR-2310] - Create assembly for Hotel NIDA Changkat Bukit Bintang (Genesis PMS)
+[IR-2389] - Servers errors summary utility for Red Planet hotels
+[IR-1322] - Create working iRates detector
+[IR-2100] - Adjust iRates implementation for Red Planet Japanese hotels with markup pricing
+[IR-2160] - Crate auto-tests for IR-1558
+[IR-2385] - Current value of rackMax overrides previous rackMax values
+[IR-2379] - IR-792 is not functioning property with 2284 exe
+[IR-2375] - Set up overbooking on Red Planet hotel assemblies
+[IR-2370] - New release 2283
+[IR-2382] - 1906 Lodge error "Not connected properly" appearing 
+[IR-2318] - July patterns update
+[IR-2351] - September 2018 patterns review
+[IR-2376] - New release 2284
+
+Version 1.0.32-2290	(2019-01-02 02:32:27.183000)
+
+[IR-2244] - Channel allotment block with parity
+[IR-2243] - Overbooking daily limit algorithm implementation
+[IR-2381] - Discount / Markup list update based on price mesh update
+[IR-2409] - Update patterns for Cebu
+[IR-2410] - Update patterns for Hat Yai
+[IR-2411] - Update patterns for Pattaya
+[IR-1748] - update assembly for Woodlands hotel
+[IR-2403] - Update patterns for Pekanbaru
+[IR-2405] - Update patterns for Ermita
+[IR-2406] - Update patterns for Cagayan
+[IR-2407] - Update patterns for Angeles
+[IR-2408] - Update patterns for Davao
+[IR-2404] - Update patterns for Surabaya
+[IR-2402] - Update patterns for Makassar
+[IR-2345] - Create new assembly for Hotel Peter and Paul (Roomkey PMS)
+[IR-2393] - Update patterns for Gotanda
+[IR-2396] - Change http to https access for Red Planet Financial Dashboard
+[IR-2401] - Site Rate grid report does not load for Ocean Villa Inn 
+[IR-2394] - Errors on Manila Bay server
+[IR-2400] - Make a delineation of access rights to hotels in ForecastDashboard
+[IR-1890] - Create new assembly (installer) for INNdulge Palm Springs hotel (RezOvation PMS)
+[IR-2356] - Update patterns for RedPlanetManilaBay hotel
+[IR-2391] - Update patterns for Saporro Susukino hotel
+[IR-2388] - Update patterns for Asakusa
+[IR-2390] - Revise critical properties for all production assemblies
+[IR-2392] - Update patterns for Nishiki Nagoya hotel
+[IR-2310] - Create assembly for Hotel NIDA Changkat Bukit Bintang (Genesis PMS)
+[IR-2389] - Servers errors summary utility for Red Planet hotels
+[IR-1322] - Create working iRates detector
+[IR-2100] - Adjust iRates implementation for Red Planet Japanese hotels with markup pricing
+[IR-2160] - Crate auto-tests for IR-1558
+[IR-2385] - Current value of rackMax overrides previous rackMax values
+[IR-2379] - IR-792 is not functioning property with 2284 exe
+[IR-2375] - Set up overbooking on Red Planet hotel assemblies
+[IR-2370] - New release 2283
+[IR-2382] - 1906 Lodge error "Not connected properly" appearing 
+[IR-2318] - July patterns update
+[IR-2351] - September 2018 patterns review
+[IR-2376] - New release 2284
+
+Version 1.0.32-2284	(2018-10-23 20:58:34.484000)
+
+[IR-1706] - Wrong rackMin for past dates
+[IR-2369] - Automatically check and correct price mesh according to set rackMin/rackMax limits
+[IR-2287] - Migrate RedPlanet's assemblies from RoomKey/Neomount PMS to IQ Ware PMS
+[IR-2373] - Compression limit for Comfort Inn Gaslamp assembly
+[IR-2364] - New release 2281
+[IR-2345] - Create new assembly for Hotel Peter and Paul (Roomkey PMS)
+[IR-2374] - Red Planet hotel price mesh standartization
+[IR-2333] - Update patterns for RodewayElCajon
+[IR-2359] - Update patterns for TheKeating hotel
+[IR-2368] - Release new exe after ticket IR-2367 is complete
+
+Version 1.0.32-2283	(2018-10-09 19:35:59.210000)
+
+[IR-2367] - Revert back changes done in the context of ticket IR-2362 
+[IR-2365] - Release new exe with fix of bug 2363 
+[IR-2363] - Bug with processing Site Rate Grid report (Ocean Villa Inn) Booking center PMS
+
+Version 1.0.32-2281	(2018-10-06 23:21:59.812000)
+
+[IR-2362] - Program cannot download reports for Ramada Airport hotel
+[IR-2011] - Create additional email addresses for outgoing emails and change mailfetcher for clients
+[IR-2331] - Create New assembly for 1906 Lodge (Rezovation PMS)
+[IR-2312] - Create assembly for Hotel NIDA Sukhumvit Prompong (Genesis PMS)
+[IR-2355] - Correct compset component for Hotel 414 Anaheim
+[IR-2354] - create account on the server for direct clients with Test hotel assembly on it
+[IR-2353] - Correct compset block for Hollywood Downtowner hotel
+[IR-2352] - Correct compset block for Rodeway Inn El Cajon assembly
+[IR-2300] - Update patterns for Comfort Inn Bloomington
+[IR-2332] - Update patterns for Dean hotel
+[IR-2313] - Create assembly for Hotel NIDA Ratchada Huai Khwang (Genesis PMS)
+[IR-2314] - Create assembly for Hotel NIDA Pattaya (Genesis PMS)
+[IR-2305] - Create assembly for Hollywood Downtowner hotel (ASI PMS)
+[IR-2335] - Download reports daily schedule Ramada Gaslamp issue
+
+Version 1.0.32-2280	(2018-08-27 14:44:12.142000)
+
+[IR-2222] - Overbooking status for Red Planet hotels
+[IR-2331] - Create New assembly for 1906 Lodge (Rezovation PMS)
+[IR-2345] - Create new assembly for Hotel Peter and Paul (Roomkey PMS)
+[IR-2339] - error when downloading data for Hollywood Downtowner hotel
+[IR-2310] - Create assembly for Hotel NIDA Changkat Bukit Bintang (Genesis PMS)
+[IR-2342] - Create test assembly for MyHMS test hotel
+[IR-2341] - Table report errors with latest exe 2278
+[IR-2336] - Double names in compset component for The Woodlands Inn
+[IR-2324] - Create new assembly for Econolodge hotel Lake Tahoe
+[IR-2326] - Implement room type differentials in percents
+[IR-2307] - Integration with Genesis PMS (Nida hotel group)
+[IR-2271] - May 2018 patterns update 
+[IR-2298] - Update patterns for The Siren hotel
+[IR-2312] - Create assembly for Hotel NIDA Sukhumvit Prompong (Genesis PMS)
+[IR-2328] - New release 2277-gs-2
+[IR-2330] - Emailed reports Sending issue Ramaga Gaslamp assembly
+[IR-2311] - Create assembly for Hotel NIDA Sukhumvit Onnut (Genesis PMS)
+[IR-2134] - Create new assembly for Keating hotel (Roomkey)
+[IR-2316] - New release 2275
+[IR-2321] - Push control utility setup for Red Planet hotels on IQ Ware servers
+[IR-2317] - Invalid format error Amsterdam hotel 2275 exe
+
+Version 1.0.32-2275	(2018-06-28 00:46:06.854000)
+
+[IR-2315] - Bug with push to Booking Center
+[IR-2306] - Update patterns for Binondo hotel
+[IR-2308] - Update patterns for Aurora Boulevard
+[IR-2288] - Create assembly for Red Planet Susukino South hotel (IQWare PMS)
+[IR-2295] - New release 2274
+[IR-2303] - Update server for direct clients with 2274 exe
+[IR-2263] - Create assembly for Red Planet Asakusa Demo hotel (IQWare PMS)
+[IR-2296] - Inndulge hotel is showing wrong revcaster fieldsa
+
+Version 1.0.32-2274	(2018-06-08 23:17:14.007000)
+
+[IR-825] - Review and match all data mapping and formula documents
+[IR-2242] - Integration with IQWare PMS
+[IR-2292] - Java out of space exception Amsterdam hotel
+[IR-2293] - Cannot process price report for the Dean hotel
+[IR-1798] - Integration with Booking Center
+[IR-534] - Integration with Autoclerk PMS
+[IR-2275] - Update patterns for Ramada Gaslamp
+[IR-2273] - Update patterns for Comfort Inn Gaslamp
+[IR-2269] - Update patterns for Ocean Villa Inn
+[IR-2059] - Set the property analyzer.confThresh=0.1 for all production assemblies
+[IR-2259] - Update patterns for Comfort Inn Fort Worth
+[IR-2270] - Update patterns for Inn Dulge Palm Springs
+[IR-2268] - New release 2164
+
+Version 1.0.32-2164	(2018-04-30 23:12:50.925000)
+
+[IR-2260] - Inndulge hotel not connected properly
+[IR-2266] - New release 2163
+[IR-1887] - Integration with RezOvation PMS
+
+Version 1.0.32-2163	(2018-04-23 12:32:27.948000)
+[IR-2260] - Inndulge hotel not connected properly
+[IR-2261] - The Siren hotel scheduler not working
+[IR-2262] - Update room count for Rodeway Inn El Cajon hotel
+[IR-2256] - Bug with logging in to Choice
+[IR-2180] - Create new assembly for Binondo hotel (Roomkey PMS)
+[IR-2166] - Scheduled patterns review setup
+[IR-2253] - New release 2160
+[IR-2239] - Update patterns for RedPlanetPasarBaruJakarta (ID)
+[IR-2251] - Correct table report to display information from compset report correctly
+
+Version 1.0.32-2160	(2018-03-15 21:38:47.239000)
+
+[IR-2252] - There are no new report for current business date unnecessary appearance 
+[IR-2251] - Correct table report to display information from compset report correctly
+[IR-2229] - February 2018 pattern review and adjustment
+[IR-2249] - Menu "Help->About " copyright has year 2017, while it should be 2018
+
+Version 1.0.32-2159	(2018-02-28 21:30:06.190000)
+
+[IR-2246] - Review new RoomKey API
+[IR-2158] - Compresing the table with a revcaster data
+[IR-2227] - Implement new feature: compset block displayed by roomtype
+[IR-2237] - Update patterns for RedPlanetPalembang (ID)
+[IR-2228] - January 2018 pattern review and adjustment
+[IR-2236] - Update patterns for RedPlanetAseanaCityManila (PH)
+[IR-2238] - Update patterns for RedPlanetAsokeBangkok (TH)
+[IR-1630] - ========NEW TASKS==========
+[IR-2241] - Rodeway Inn Casino Center is showing wrong revcaster fields
+
+Version 1.0.32-2157	(2018-02-09 20:41:36.002000)
+
+[IR-2227] - Implement new feature: compset block displayed by roomtype
+[IR-2234] - Update patterns for RedPlanetAmorsoloManila (PH)
+[IR-1798] - Integration with Booking Center
+[IR-2183] - Create Forecast Dashboard for Red Planet properties
+[IR-2221] - Double check Forecast Dashboard case for Bekasi and may be others Indonesian RP hotels - missed data in iRates section
+[IR-2213] - Update patterns for RedPlanetSolo (ID)
+[IR-2224] - Update patterns for RedPlanetPatong (TH)
+[IR-2216] - Update patterns for TheDean hotel
+[IR-2218] - Update patterns for TheWoodlandsInn
+[IR-2225] - Update patterns for RodewayInnAndSuitesElCajonSanDiegoEast
+[IR-2219] - Update patterns for Ramada Airport
+[IR-2134] - Create new assembly for Keating hotel (Roomkey)
+[IR-2226] - Red Planet Surawong pattern review
+[IR-2182] - Create new assembly for Manila Bay hotel (Roomkey PMS)
+[IR-2181] - Create new assembly for Aurora Boulevard hotel (Roomkey PMS)
+[IR-2220] - Red Planet hotels min / max rack irrelevant rate table
+[IR-2222] - Overbooking status for Red Planet hotels
+[IR-2215] - iRates web site update
+[IR-2212] - Update patterns for RedPlanetPekanbaru (ID)
+[IR-2214] - Update patterns for RedPlanetSurabaya (ID)
+[IR-2211] - Update patterns for RedPlanetMakassar (ID)
+[IR-2209] - Update patterns for Rodeway Inn Casino Center
+[IR-2136] - Create new assembly for Nagoya hotel (Neoumont PMS)
+[IR-2202] - Update patterns for RedPlanetDavao (PH)
+[IR-2191] - Make script for iRates version update
+[IR-2203] - Update patterns for RedPlanetCebu (PH)
+[IR-2205] - Update patterns for RedPlanetAngelesCity (PH)
+[IR-2199] - Bug with postgres function on the server for direct clients
+[IR-2198] - Comfort Inn Fort Worth assembly freezes 256 exe
+[IR-2165] - Complressed RevCaster reports processing
+[IR-2197] - RoomKey PMS: ignore broken HotelInventory reports during reports download
+[IR-2194] - Guest forecast report is broken for Inndulge hotel
+[IR-2164] - Asakusa Red Planet hotel pattern update
+
+Version 1.0.32-2156	(2017-11-10 19:19:44.373000)
+
+[IR-2173] - Change hotel name in email subject to hotel name + hotel code
+[IR-2187] - v2155. Automatic reporter does not work with a hotel which uses an embedded database
+[IR-2185] - Create new assembly for MVC Eagle Beach Aruba hotel (Opera PMS)
+[IR-2184] - Create new assembly for Amsterdam Manor Beach Resort (Opera PMS)
+
+Version 1.0.32-2155	(2017-10-30 17:28:57.942000)
+
+[IR-2158] - Compresing the table with a revcaster data
+[IR-1673] - Don't save repeating data points in db to avoid db growing
+[IR-2155] - Overbooking price recommendations
+[IR-2150] - Verify "Statistics-Availability" discrepancy for Neomount PMS
+[IR-825] - Review and match all data mapping and formula documents
+[IR-2159] - Revision of the using memory by various parts of the program
+[IR-2174] - Change compression algorithm when archiving files
+[IR-2172] - Cannot download any message error message for Ramada San Diego Airport
+[IR-2173] - Change hotel name in email subject to hotel name + hotel code
+[IR-2163] - Royak Oak / Gotanda Red Planet hotel patterns update
+[IR-2171] - Update iRates verison on Red Planet servers to version 2154
+
+Version 1.0.32-2154	(2017-09-13 22:48:13.502000)
+
+[IR-2162] - Inspection of Red Planet patterns
+[IR-2165] - Complressed RevCaster reports processing
+[IR-2129] - Broken archives containing databases' dumps
+[IR-1798] - Integration with Booking Center
+[IR-2157] - Controlling the size of allocated memory for the automatic-reporter
+[IR-1558] - Rack from Rate shopping report (Revcaster)
+[IR-2161] - Create hotel installer of new type to be able to install hotel's assemblies on new server and set up iRatesScheduler running for them
+[IR-2091] - Program does not show data after 365 days
+
+Version 1.0.32-2152	(2017-08-29 20:08:49.711000)
+
+[IR-2148] - Update settings for OceanicCo account on the server
+[IR-2121] - adjust Marina village inn assembly and other assemblies used by multiple users
+[IR-2151] - New release 2151
+[IR-2153] - Program does not show all data with BookingCenter hotel
+[IR-2136] - Create new assembly for Nagoya hotel (Neoumont PMS)
+[IR-2150] - Space holder
+
+Version 1.0.32-2151	(2017-08-16 20:24:57.270000)
+
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+
+Version 1.0.32-2150	(2017-08-14 20:48:08.452000)
+
+[IR-2146] - New release 2149
+[IR-2134] - Create new assembly for Keating hotel (Roomkey)
+[IR-1798] - Integration with Booking Center
+[IR-2040] - Availability by roomtype report cannot be processed by iRates
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+[IR-2135] - Adjust time stamp for hourly Opera hotels
+
+Version 1.0.32-2149	(2017-08-13 17:43:31.783000)
+
+[IR-1798] - Integration with Booking Center
+[IR-2040] - Availability by roomtype report cannot be processed by iRates
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+[IR-2135] - Adjust time stamp for hourly Opera hotels
+
+Version 1.0.32-2148	(2017-08-12 21:43:44.549000)
+
+[IR-1798] - Integration with Booking Center
+[IR-2040] - Availability by roomtype report cannot be processed by iRates
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+[IR-2135] - Adjust time stamp for hourly Opera hotels
+
+Version 1.0.32-2147	(2017-08-07 20:26:10.920000)
+
+[IR-1798] - Integration with Booking Center
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+
+Version 1.0.32-2146	(2017-08-07 02:50:20.607000)
+
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+
+Version 1.0.32-2145	(2017-07-27 00:24:22.574000)
+
+[IR-2126] - Create new assembly for The Siren hotel (Roomkey)
+[IR-1993] - Automatic tests for recommendations consistency for all PMS and for all iRates' tasks
+[IR-2128] - Program gave a message abut missing reports even though the reports came in 
+[IR-2129] - Broken archives containing databases' dumps
+
+Version 1.0.32-2143	(2017-07-17 21:01:56.843000)
+
+[IR-2093] - Issue with processing reports for Opera daily hotel
+[IR-2124] - "There are no new reports since last update" error for daily Opera when previous iRates scheduler 's run was delayed
+[IR-2074] - Add RezOvation integration to data mapping document
+[IR-2123] - Broken input reports after archiving
+[IR-1814] - Dynamic selection of number of patterns instead of fixed 10
+[IR-2118] - Investigate low memory issue on the new server
+[IR-2115] - Verify discrepancy for RoomKey PMS
+[IR-2112] - Create assembly for Rodeway Inn San Bernardino (Choice)
+[IR-2114] - Cancellations report bug during scheduler run
+[IR-2113] - SQL error during scheduler operation
+[IR-2065] - Availability by roomtype block does not take into account out of Order rooms for Roomkey PMS
+[IR-2110] - Clean (delete unnecessary data) databases for Red Planet hotels
+
+Version 1.0.32-2142	(2017-06-21 20:43:21.875000)
+
+[IR-2107] - Red Planet Indonesian property time zone verification and adjustment
+[IR-2089] - Analysis report for Asakusa
+[IR-2105] - Correct the behavior of the error messages in scheduler mode
+[IR-1876] - Integration with ASI FrontDesk Cloud PMS
+[IR-2101] - New release 2140
+[IR-2082] - Create new assembly for Econolodge Fresno (Choice PMS)
+
+Version 1.0.32-2141	(2017-06-02 22:07:58.932000)
+
+[IR-2100] - Adjust iRates implementation for Red Planet Japanese hotels with markup pricing
+[IR-2095] - Pushing to Choice does not work properly
+
+Version 1.0.32-2140	(2017-05-31 00:59:36.583000)
+
+[IR-1939] - Implement "There are no new reports since last update" error for all PMS
+[IR-2098] - Few recommendations with 2138 exe
+[IR-2095] - Pushing to Choice does not work properly
+[IR-1963] - Create a new utility which generates a report with Rate Push Data
+
+Version 1.0.32-2138	(2017-05-19 02:29:41.995000)
+
+[IR-2095] - Pushing to Choice does not work properly
+[IR-1798] - Integration with Booking Center
+[IR-2091] - Program does not show data after 365 days
+[IR-2081] - To ensure the re-run push in the event of his fall
+
+Version 1.0.32-2137	(2017-05-15 19:51:27.526000)
+
+[IR-1673] - Don't save repeating data points in db to avoid db growing
+[IR-1760] - Organize compression and duplicates-free data saving testing framework on Test account
+[IR-2091] - Program does not show data after 365 days
+[IR-2088] - javax.mail.FolderClosedException for Ramada Airport
+[IR-1798] - Integration with Booking Center
+[IR-2079] - Analyze migration costs potential to Amazon or to Google server instead of US DEdicated
+[IR-2080] - URGENT - Asakusa pricing issue
+[IR-1789] - Exe automatic testing
+[IR-2066] - Review and clear space on the server for Direct clients
+[IR-2084] - NAHA - OTA Graph 4/28
+
+Version 1.0.32-2136	(2017-05-03 21:15:12.654000)
+
+[IR-2001] - Possibility of pushing any price for Choice PMS
+[IR-2018] - Implement new feature which prevents some recommendations from automatic pushing if their values differ significantly from current prices in PMS
+[IR-2072] - Create new assembly for La Jolla Inn
+[IR-2078] - RedPlanetNahaOkinawa: Sunday rate recommendation seem to be aggressive on the weakest day of the week
+[IR-1622] - Implement the ability to automatically detect and keep track of any changes a user made in iRates control files
+[IR-1939] - Implement "There are no new reports since last update" error for all PMS
+[IR-1992] - Automatic tests for data mapping consistency for all PMS and for all iRates' tasks
+[IR-2062] - Limit competitors price for compset average calculation by six sigma 
+[IR-1798] - Integration with Booking Center
+
+Version 1.0.32-2127	(2017-04-10 19:30:22.655000)
+
+[IR-2048] - Implement auto-push monitoring for RedPlanet assemblies
+[IR-2058] - Optimize the performance of iRates sales statistics collecting utilities
+[IR-2037] - Database correction when room type differentials were changed
+[IR-2053] - Create a new light utility which generates a report with Rate Push Data
+[IR-2061] - Red Planet Japanese market cancellation / reservation swing analysis for Asakusa March 9 2017
+[IR-1992] - Automatic tests for data mapping consistency for all PMS and for all iRates' tasks
+[IR-2062] - Limit competitors price for compset average calculation by six sigma 
+[IR-2059] - Set the property analyzer.confThresh=0.1 for all production assemblies
+[IR-2057] - Create a document with iRates requirement for reservations information to get 
+[IR-2054] - Japanese Hotel pricing analysis
+[IR-2025] - Protection measures to prevent hacking of hotel assemblies with separate/embedded databases
+[IR-2049] - Schedule auto-push monitoring utility on all RedPlanet's servers
+[IR-1618] - Create a tool (utility) to move data from old embedded db to new separate db
+[IR-2056] - Create a brief description of iRates good practice in price management
+[IR-2050] - IR-1254/IR-1110 does not work correct with 2126 exe
+
+Version 1.0.32-2126	(2017-03-16 01:43:36.619000)
+
+[IR-2043] - Program does not work for daily Opera assemblies
+
+Version 1.0.32-2125	(2017-03-15 01:12:49.071000)
+
+[IR-2045] - Failed to import data from Rates report error 2124 exe (Choice PMS)
+[IR-1963] - Create a new utility which generates a report with Rate Push Data
+[IR-2040] - Availability by roomtype report cannot be processed by iRates
+[IR-2043] - Program does not work for daily Opera assemblies
+[IR-1798] - Integration with Booking Center
+
+Version 1.0.32-2124	(2017-03-07 18:49:50.539000)
+
+[IR-1833] - Incorrect captions in GUI after loading a hotel with another language
+[IR-2040] - Availability by roomtype report cannot be processed by iRates
+
+Version 1.0.32-2123	(2017-03-05 13:13:46.572000)
+
+[IR-2040] - Availability by roomtype report cannot be processed by iRates
+[IR-1963] - Create a new utility which generates a report with Rate Push Data
+[IR-2015] - Possibility of sending outgoing emails from different email addresses
+[IR-2028] - Implement protection(Anti hack) measures for server with direct clients
+[IR-2035] - New release 2122
+[IR-2034] - Change min price for a set of Red Planet hotels
+
+Version 1.0.32-2122	(2017-02-27 20:20:21.951000)
+
+[IR-2029] - Warning "Push failed cannot connect " needs correction 
+[IR-2031] - Feature IR-1294 is not working with 1294 exe
+[IR-2023] - Create virtual machine on Amazon AWS for heavy-weighted calculations
+[IR-1558] - Rack from Rate shopping report (Revcaster)
+[IR-2030] - data mapping issue Rezovation PMS with 2121 exe
+[IR-1992] - Automatic tests for data mapping consistency for all PMS and for all iRates' tasks
+[IR-2027] - Check all assemblies on server for direct cleitns to make sure all of them work correctly
+[IR-2025] - Protection measures to prevent hacking of hotel assemblies with separate/embedded databases
+[IR-2013] - Improve patterns for RedPlanet Naha hotel
+[IR-2014] - Improve patterns for RedPlanet Gotanda hotel
+[IR-2012] - Improve patterns for RedPlanet Asakusa hotel
+[IR-230] - Automate pattern tuning
+[IR-2017] - Update patterns construction/adjustment utility
+
+Version 1.0.32-2121	(2017-02-17 20:22:43.738000)
+
+[IR-2001] - Possibility of pushing any price for Choice PMS
+[IR-1933] - Save Compset reports the same way as we save other input reports
+[IR-1558] - Rack from Rate shopping report (Revcaster)
+[IR-2020] - Failure to transfer hotel from embedded to separate db
+[IR-2009] - Review Red Planet Japanese properties Friday issue
+[IR-2004] - New API spec review
+
+Version 1.0.32-2120	(2017-02-10 22:08:19.103000)
+
+[IR-1558] - Rack from Rate shopping report (Revcaster)
+[IR-2001] - Possibility of pushing any price for Choice PMS
+[IR-2011] - Create additional email addresses for outgoing emails and change mailfetcher for clients
+[IR-1985] - Wrong expiration date-time calculation for assemblies with night audit time 23:59:59 local time
+[IR-2008] - Issue with push email message on Neoumont hotels
+[IR-2002] - Clarify 1558 ticket tresolving strategy
+[IR-2006] - Empty 'Rack max' cell in GUI
+[IR-2005] - The table view looks different after changing the month
+[IR-1963] - Create a new utility which generates a report with Rate Push Data
+[IR-1999] - Monthly server checkup/review/diagnostics on iRates server Jan 2017
+[IR-2003] - Implement compset-based approache to the calculation of recommended prices in irates-core-api
+[IR-1997] - Implement R-trader-based approache to the calculation of recommended prices in irates-core-api
+[IR-1996] - Recommended restrictions calculation functionality in irates-core-api
+[IR-1983] - Create new warning when there are missed dates in revcaster for which compset-based recommendations can not be calculated
+[IR-1995] - Warning on the email with recommendation when there should be no warning
+[IR-1990] - From Asana: Quezon City & Ortigas rate recommendations
+[IR-1994] - Cannot find bundle error during scheduler operation
+[IR-1971] - Implement sending any iRates scheduler's email report to multiple email addresses
+
+Version 1.0.32-2119	(2017-01-20 22:22:24.336000)
+
+[IR-1825] - Make all the stuff consistent among different PMS's
+[IR-1986] - Monthly pick up report is showing "(200$)" instead of "-200"
+[IR-1987] - Competitors block is invisible after a hotel changing
+[IR-1558] - Rack from Rate shopping report (Revcaster)
+[IR-1988] - GUI fails when switch from a hotel with competitors to a hotel without one
+[IR-1983] - Create new warning when there are missed dates in revcaster for which compset-based recommendations can not be calculated
+[IR-1916] - Implement "Missed dates in report" warning for all PMS
+[IR-1982] - GUI exits with code 1 when revcaster reports outdated
+[IR-1971] - Implement sending any iRates scheduler's email report to multiple email addresses
+[IR-885] - Add 2014 to Copyright notice in About section
+[IR-1981] - Missed dates warning message correction needed for revcaster reports
+[IR-1980] - Missing reports warning error needs correction for Choice PMS
+[IR-1979] - Missed dates warning message correction needed
+[IR-1925] - Recommended rates are very aggressive for RedPlanetPatongPhuket
+[IR-1978] - Program does not treat missing compset component properly with 2118 exe
+[IR-1977] - Adjust assembly for Pasar Baru hotel due to changed room count
+
+Version 1.0.32-2118	(2017-01-06 21:13:14.450000)
+
+[IR-1972] - New release 2116
+[IR-1901] - Recreate assembly for Ramada San Diego Airport hotel
+[IR-1968] - Monthly server checkup/review/diagnostics on iRates server
+[IR-1965] - To change the format of the data in a table report saved in Excel file
+[IR-1933] - Save Compset reports the same way as we save other input reports
+[IR-1558] - Rack from Rate shopping report (Revcaster)
+[IR-1966] - Create new  installer for Test hotel Cleaned (Dec 2016)
+[IR-1942] - Check for missed/broken reports for all PMS's and for all iRates's tasks
+[IR-1939] - Implement "There are no new reports since last update" error for all PMS
+[IR-1817] - Redownload reports for Opera properties on hourly schedule
+[IR-1951] - Starting the program without refreshed data error message on Opera assembly with 2116 exe
+[IR-1945] - Check if the program is able to login to "reports storage" before reports download for all PMS's
+[IR-1953] - Ability to update login and password for Opera property's mailbox within the GUI
+[IR-1517] - iRates properties description
+[IR-1944] - Check for internet connection before reports download for all PMS's
+[IR-1940] - Implement "Last reports set is outdated" error for all PMS
+[IR-1943] - Check for missed sets of reports for previous business dates for all PMS's and for all iRates's tasks
+[IR-1941] - Implement task-dependent division between PRIMARY and SECONDARY reports for all PMS's
+[IR-1938] - Implement "There are no reports for current business date" error for all PMS
+[IR-1916] - Implement "Missed dates in report" warning for all PMS
+[IR-1947] - Redownload broken operational reports for on-demand-reports-PMS's
+[IR-1946] - Redownload reports in case of server-side error for all PMS's
+[IR-1948] - Indullge hotel issue with pushing rates
+[IR-1743] - Research a tool to archive old reports from gmail and delete 
+[IR-3] - Hide iRates in system tray
+[IR-1816] - Error messages when we got missed/corrupted reports  for Opera properties
+[IR-1932] - Continue sending scheduled tasks even if set of reports for past date is not complete or some of the reports are broken - for all PMS's
+[IR-1934] - Create a list of PRIMARY and SECONDARY reports for all iRates's tasks and for all PMS's
+[IR-1931] - Warning in GUI about a missed/corrupted secondary report in addition to the error in log during scheduled task - for all PMS's
+[IR-825] - Review and match all data mapping and formula documents
+[IR-1926] - Rebuild patterns for The Woodlands hotel
+[IR-1929] - Please check new Roomkey API
+[IR-1928] - Create compset component (revcaster) for Econolodge Fontana hotel
+[IR-1918] - Monthly server checkup/review/diagnostics on iRates server
+[IR-1836] - recreate installer for iRates test hotel (Roomkey )
+[IR-1924] - program is stuck for Woodlands hotel Comfort Inn Bloomington
+[IR-1919] - New release 2115
+[IR-1824] - Integration with EzYield
+[IR-1812] - Please create Royal Oak Gotanda assembly (Neomount)
+
+Version 1.0.32-2116	(2017-01-04 21:19:31.553000)
+
+[IR-1798] - Integration with Booking Center
+[IR-1970] - iRates cannot login to assembly for RodewayInn
+[IR-1969] - End of month report cannot be opened starting from 2017
+[IR-1971] - Implement sending any iRates scheduler's email report to multiple email addresses
+
+Version 1.0.32-2115	(2016-10-13 00:43:50.937000)
+
+[IR-1907] - Create new assembly for Rodeway Inn & Suites  El Cajon 
+[IR-1877] - modify code to recognize situation when base rate code changes in Roomkey and Neomount PMS
+[IR-1914] - Ocean Villa Inn hotel gives error when pushing
+[IR-1716] - Integration with Neomount
+[IR-1915] - New release 2114
+[IR-1899] - -9999 values for ADR in Table Report for RedPlanetNahaOkinawa
+
+Version 1.0.32-2114	(2016-10-06 21:30:33.240000)
+
+[IR-1874] - Create a property to specify # of past and future days to be shown in the program
+
+Version 1.0.32-2113	(2016-10-06 19:05:33.240000)
+
+[IR-1912] - Updating mapping for Choice hotels based on different group status
+[IR-1911] - Last year stat numbers are not showing for past dates and End of month report has bad numbers because of this
+[IR-1910] - Push of restriction does not work correct for event days in Choice PMS
+[IR-1905] - New release 2112
+[IR-1909] - Create compset for the property
+
+Version 1.0.32-2112	(2016-09-29 22:28:51.632000)
+
+[IR-1899] - -9999 values for ADR in Table Report for RedPlanetNahaOkinawa
+[IR-1904] - Error message unnecessary appearance on Roomkey and Opera Hotels
+[IR-1897] - Empty <RankCode></RankCode> records returned by Temairazu for some future dates for RedPlanetGotanda
+
+Version 1.0.32-2111	(2016-09-28 22:22:44.460000)
+
+[IR-1855] - Review pull and push of rates and restrictions in Choice and speed up if possible
+[IR-1899] - -9999 values for ADR in Table Report for RedPlanetNahaOkinawa
+[IR-1900] - Processing of broken reports in Neomount
+[IR-1650] - Installer with separate database
+[IR-1873] - Create user groups on the server based on the PMS
+[IR-1698] - iRates Core API
+[IR-1893] - Monthly server checkup/review/diagnostics on Red Planet/Neoumont server Sep 2016
+[IR-1877] - modify code to recognize situation when base rate code changes in Roomkey and Neomount PMS
+[IR-1891] - Yesterday's numbers are always not correct in Opera's assemblies
+[IR-1896] - Automatic-reportes hangs on connecting to smtp.gmail.com as outgoing@irates.com
+[IR-1894] - Monthly server checkup/review/diagnostics on iRates server Sep 2016
+[IR-1812] - Please create Royal Oak Gotanda assembly (Neomount)
+[IR-1809] - Recommendations for Surawong
+[IR-1872] - New release 2107
+[IR-1887] - Integration with RezOvation PMS
+[IR-1892] - Asakusa room type change - as of Aug 18, 2016
+[IR-792] - GUI dialogue window for price grid view and modification for Choice hotels
+[IR-1879] - Monthly server checkup/review/diagnostics on iRates server
+[IR-1885] - New release 2110
+[IR-1888] - Bug with logging in to Choice
+[IR-1874] - Create a property to specify # of past and future days to be shown in the program
+[IR-1863] - Create an universal function that does the login for Choice and counts login failures
+[IR-1395] - error message during pushing when it is not able to connect to PMS
+[IR-1856] - Please add "Occ Forecast" line in GUI (and add to Table reports)
+[IR-1886] - Implement Processing of 2 new Opera reports : Reservation Stat and Reservation Forecast
+
+Version 1.0.32-2110	(2016-08-03 04:18:35.567000)
+
+[IR-1881] - Incorporate CORP bookings into algorithm to be treated differently from transient
+[IR-1395] - error message during pushing when it is not able to connect to PMS
+[IR-1880] - Monthly server checkup/review/diagnostics on Red Planet/Neoumont server
+[IR-1820] - please create patterns for Ocean Villa Inn hotel, report attached
+
+Version 1.0.32-2109	(2016-07-29 03:48:28.045000)
+
+[IR-1883] -  stat data for past days is not displayed correctly for Roomkey hotels with 2108 exe
+[IR-1517] - iRates properties description
+[IR-1881] - Incorporate CORP bookings into algorithm to be treated differently from transient
+[IR-1863] - Create an universal function that does the login for Choice and counts login failures
+[IR-1395] - error message during pushing when it is not able to connect to PMS
+[IR-1814] - Dynamic selection of number of patterns instead of fixed 10
+[IR-1878] - install 2107 for Red Planet and Neoumont servers
+[IR-1848] - Downloader.properties file description
+[IR-1861] - iRates doesn't email Table report that contains a year
+[IR-1809] - Recommendations for Surawong
+[IR-1860] - modify push to Neoumont to catch situation when price is not on the grid
+[IR-1856] - Please add "Occ Forecast" line in GUI (and add to Table reports)
+[IR-1760] - Organize compression and duplicates-free data saving testing framework on Test account
+
+Version 1.0.32-2107	(2016-06-29 03:01:53.309000)
+
+[IR-1871] - Please map Group data from Occupancy Snapshot report and get rid of Group pickup detail
+[IR-1724] - Integration with SkyTouch
+[IR-1867] - New release 2105
+[IR-1866] - New release 2104
+
+Version 1.0.32-2106	(2016-06-28 15:38:21.686000)
+
+[IR-1869] - An everlasting error message "Failed to download forecast overview report" for Choice property
+[IR-1724] - Integration with SkyTouch
+[IR-1868] - Create compset component for Motel One Odessa
+
+Version 1.0.32-2105	(2016-06-22 13:24:31.057000)
+
+[IR-1724] - Integration with SkyTouch
+
+Version 1.0.32-2104	(2016-06-22 03:41:56.244000)
+
+[IR-1724] - Integration with SkyTouch
+[IR-1858] - Create new SkyTouch assembly - Motel One Odessa
+[IR-1864] - Out of memory issue with Holiday Inn Express Raton
+
+Version 1.0.32-2103	(2016-06-20 18:49:42.530000)
+
+[IR-457] - Push to Choice for events
+[IR-1852] - "Pushing 1 of 1" dialog message looks graceless when pushing BAR for an event
+[IR-1843] - Email sending failed with 'Temporary System Problem' error
+[IR-1853] - New release 2101
+
+Version 1.0.32-2102	(2016-06-16 02:18:44.376000)
+
+[IR-1850] - May 30 2015 is showing up twice in Ramada Gaslamp assembly in LY stats block
+[IR-1857] - Glitch with restrictions display 2101 exe
+[IR-1847] - Add a window for "Go to date" in the Table
+[IR-1845] - Choice integration update for the Rates report
+
+Version 1.0.32-2101	(2016-06-13 12:21:57.953000)
+
+[IR-1854] - Push the same rank for all room types (zero differentials) for Neomount's hotels
+[IR-1849] - Please add an ability to push restrictions to Choice PMS
+[IR-1851] - Pushing of rates for events in Choice affects restrictions set for dates (events or not) within the same week
+[IR-1824] - Integration with EzYield
+[IR-1832] - Create patterns for RedPlanetAsakusaTokio (Neomount) hotel
+[IR-1834] - Create patterns for RedPlanetNahaOkinawa (Neomount) hotel
+[IR-1789] - Exe automatic testing
+[IR-1844] - Repeat request to RoomKey server after timeout exception
+[IR-254] - Choice version: stay restrictions are not displaying in GUI
+[IR-1845] - Choice integration update for the Rates report
+[IR-171] - Adding notes to the program (user input)
+[IR-1846] - Add Review Changes report in the body of the email
+[IR-1841] - Red Planet server hangs on a request to the RoomKey
+[IR-1655] - Error message when pushing when Choice password is incorrect
+[IR-1835] - Create new assembly for Whitney Peak hotel (Opera)
+[IR-1842] - Create compset component for Whitney Peak hotel
+[IR-1617] - Transition all Direct hotels from embedded to separate database
+[IR-1840] - From Asana: Solo - Lebaran festive period
+[IR-1839] - IllegalStateException at unexpected decimal separator in Russian version of Windows 7
+[IR-1618] - Create a tool (utility) to move data from old embedded db to new separate db
+[IR-1766] - Test & check iRates Core API on real data
+[IR-1745] - Test script for Core API
+[IR-1837] - Ramada Gaslamp - CTA showing in the wrong place
+[IR-1833] - Incorrect captions in GUI after loading a hotel with another language
+[IR-1838] - Recreate scheduling of the reports for Opera properties
+[IR-1829] - Create test assembly for Shelter PMS
+[IR-1828] - New release 2100
+
+Version 1.0.32-2100	(2016-05-11 19:07:37.468000)
+
+[IR-1822] - Error with downloading report for Opera properties
+[IR-1827] - Program Update fails for Opera's TestHotelCleaned property with exe-2099
+
+Version 1.0.32-2099	(2016-05-07 01:08:53.294000)
+
+[IR-1822] - Error with downloading report for Opera properties
+[IR-1818] - Failed to download Forecast overview report error message for Choice property during scheduled task
+[IR-1760] - Organize compression and duplicates-free data saving testing framework on Test account
+[IR-1765] - issue with 2-way sync of seasons 
+[IR-1809] - Recommendations for Surawong
+[IR-1792] - migration from embedded to separate failed on the server for direct clients
+
+Version 1.0.32-2098	(2016-05-05 00:48:58.300000)
+
+[IR-1816] - Error messages when we got missing/corrupted reports  for Opera properties
+[IR-1673] - Don't save repeating data points in db to avoid db growing
+[IR-1779] - hotel statistics report is empty when program remains open
+[IR-1800] - Update data requirements documents with more details (descriptions of the fields)
+[IR-1819] - Invalid format: "html" error for OceanVillaInn (BookingCenter PMS)
+[IR-1815] - Correct 0 in stat.block data for past dates for Rodeway Inn Hotel 
+[IR-1813] - Add Booking Center integration to data mapping document
+[IR-1786] - Add Neomount integration to data mapping document
+[IR-1517] - iRates properties description
+[IR-1484] - Correct order of columns in Table view got shifted after switching to the next few months 
+[IR-1639] - Change scale of Sales Dynamics graph from # of rooms to occ (%)
+[IR-1801] - Create assembly for Ocean Villa Inn
+[IR-1808] - New release 2097
+[IR-1809] - Recommendations for Surawong
+[IR-1765] - issue with 2-way sync of seasons 
+[IR-1395] - error message during pushing when it is not able to connect to PMS
+[IR-1655] - Error message when pushing when Choice password is incorrect
+[IR-1807] - Enhance Table report email
+
+Version 1.0.32-2097	(2016-04-18 19:59:41.668000)
+
+[IR-1798] - Integration with Booking Center - browser simulation
+[IR-1801] - Create assembly for Ocean Villa Inn
+[IR-1806] - Program does not read new reports for Comfort Inn Gaslamp with 2096 exe
+[IR-1655] - Error message when pushing when Choice password is incorrect
+[IR-1803] - Please create a new user on the server and install fresh Ramada Gaslamp,hourly assembly
+[IR-1792] - migration from embedded to separate failed on the server for direct clients
+[IR-265] - Periodic database backup
+[IR-1802] - Restrictions are not accurately displaying in GUI for Ramada Gaslamp
+
+Version 1.0.32-2096	(2016-04-11 18:11:52.777000)
+
+[IR-1716] - Integration with Neomount
+[IR-1802] - Restrictions are not accurately displaying in GUI for Ramada Gaslamp
+[IR-1799] - Update Red Planet to 2094 exe
+[IR-1797] - Comfort Gaslamp LY total numbers not correct
+[IR-1796] - NullPointerException while creating new property with embedded database from scratch
+[IR-1795] - ScenarioException while launching iRates for newly created property with separate database
+[IR-1793] - The property's database doesn't close properly after program exits
+[IR-265] - Periodic database backup
+[IR-1657] - Add new report - Demand level calendar
+[IR-1790] - New release 2095
+[IR-1717] - Integration with Cubilis/Stardekk
+[IR-1655] - Error message when pushing when Choice password is incorrect
+[IR-1787] - New release 2094
+[IR-1785] - Add Cubilis integration to data mapping document
+
+Version 1.0.32-2095	(2016-03-22 22:11:32.626000)
+
+[IR-1717] - Integration with Cubilis/Stardekk
+[IR-1657] - Add new report - Demand level calendar
+
+Version 1.0.32-2094	(2016-03-17 20:40:22.999000)
+
+[IR-1781] - New release 2093
+[IR-1782] - Auto push mode and Emailed report settings disappear sometime with 2093
+[IR-1784] - Create a parameter to hide/unhide OOO Rooms from Stats block of iRatesGUI
+[IR-1750] - Failed to import data from ...report error unnecessary appearance
+[IR-1783] - Starting program without refresh data for Opera's properties
+
+Version 1.0.32-2093	(2016-03-16 01:25:41.622000)
+
+[IR-1774] - adjust assembly for Marina Village Inn hotel with new differentials
+[IR-1780] - Auto push does not work on separate or embedded db for Roomkey property
+[IR-1746] - Create iRatesScheduler's tasks automatic testing framework
+[IR-1773] - Continue the program without update error message during db update process for Roomkey hotel
+[IR-1779] - hotel statistics report not uploading in db - Comfort Gaslmap
+[IR-1775] - HSQLDB connection doesn't close properly after iRatesGUI terminates
+[IR-1730] - Show a warning message if Java is 32-bit and/or is of outdated version
+[IR-1768] - Unhandled exception with when opening Achieved results for Ramada Airport
+[IR-1767] - check the issue with no memory space on the server for direct clients
+[IR-1741] - IR-1570 broken with 2087 exe
+[IR-1762] - SQLSyntaxErrorException and DatabaseMigrationManager error while launching iRates for newly created property
+[IR-1653] - Show warning with low java memory
+[IR-1757] - New release 2090
+[IR-1759] - FW: Pekanbaru Rate - 1 & 2 March 2016
+
+Version 1.0.32-2090	(2016-02-25 18:48:54.816000)
+
+[IR-1736] - "show achieved results" report analysis for Ramada Airport San Diego 
+[IR-3] - Hide iRates in system tray
+[IR-1739] - New release 2087
+[IR-1753] - New release 2088
+[IR-1730] - Show a warning message if Java is 32-bit and/or is of outdated version
+[IR-1653] - Show warning with low java memory
+[IR-1743] - Research a tool to archive old reports from gmail and delete 
+[IR-1751] - Check missing data issue on all PMS's 
+[IR-1627] - investigate compset/revcaster settings for validation
+[IR-1749] - Ramada Airport assembly does not show end of month report numbers for 2015 or last year stat block
+[IR-1748] - update assembly for Woodlands hotel
+[IR-1621] - Abort button should close the software
+[IR-1744] - Show only 7 days in the Sales Dynamics block instead of 30
+[IR-1706] - Wrong rackMin for past dates
+[IR-1622] - Implement the ability to automatically detect and keep track of any changes a user made in iRates control files
+[IR-1742] - shows achieved results block shows weird info with 2087 exe for Rodeway Inn hotel
+[IR-1481] - IR-1060 not working with exe 1871
+[IR-1729] - when price is outside of min/max parameters during scheduled push (all PMS's)
+[IR-1737] - Analysis - Ortigas Analyser data (11-18Jan16)
+[IR-1740] - correct database for Rodeway Inn hotel
+[IR-1732] - Describe scenarios of usage of irates-core-api (usage cases)
+[IR-1667] - when price is outside of price mesh during scheduled push (Choice)
+[IR-1733] - Rebuild patterns for Comfort Inn Bloomington and update
+[IR-1723] - Converter for time zone change
+
+Version 1.0.32-2087	(2016-02-05 21:45:40.661000)
+
+[IR-1736] - "show achieved results" report analysis for Ramada Airport San Diego 
+[IR-1728] - New release 2086
+[IR-1738] - Compress database for hotel Comfort Inn Fort worth
+[IR-1601] - LY ADR and LY Occ in Group Pricing window need to be shifted by 1 day like in Table (LY Stats block)
+[IR-1735] - review changes report bug 2086 exe
+[IR-1700] - issue with compressing when database is separate
+[IR-1709] - Issues with the compression of embedded (HSQL) databases
+[IR-1734] - Compress database for Ramada Airport San Diego
+[IR-1723] - Converter for time zone change
+[IR-1611] - LastSuccessfullUpdate line was not updated on Roomkey property
+[IR-1708] - create new "emailed reports" item: Occupancy alert
+[IR-1706] - Wrong rackMin for past dates
+[IR-1727] - Compress The Woodlands hotel
+
+Version 1.0.32-2086	(2016-01-26 22:50:51.895000)
+
+[IR-1708] - create new "emailed reports" item: Occupancy alert
+[IR-1726] - ERROR when generating scheduled reports for Choice
+[IR-1725] - "Failed to save decisions"  error after "Push to RoomKey"
+[IR-1719] - Changing rackMin in GUI doesn't have any effect
+[IR-1709] - Issues with the compression of embedded (HSQL) databases
+[IR-1711] - Check the correctness of the compression of embedded (HSQL) databases
+[IR-1718] - Menu "Help->About " copyright has year 2015, while it should be 2016 already
+[IR-1722] - Issue with archiving of input reports
+[IR-1721] - Install 2084 exe for Red Planet hotels
+[IR-1670] - Rebuild patterns for other RP hotels (see list in description)
+[IR-1715] - New release 2084
+[IR-1622] - Implement the ability to automatically detect and keep track of any changes a user made in iRates control files
+[IR-1688] - Update patterns for Angeles
+[IR-1681] - Update patterns for Palembang
+[IR-1710] - "Statement not in batch mode" error while compressing decision_generator table
+
+Version 1.0.32-2085	(2016-01-05 16:26:43.050000)
+
+[IR-1713] - Compression does not work on embedded database 
+[IR-1714] - End of month report cannot be opened starting from 2016
+
+Version 1.0.32-2083	(2015-12-31 00:17:20.489000)
+
+[IR-1700] - issue with compressing when database is separate
+[IR-1691] - Update patterns for Patong
+[IR-1692] - Update patterns for Pattaya
+[IR-1703] - Stat block is not displaying full info after 3/21/16 for Choice PMS with 2082 exe
+[IR-1689] - Update patterns for Davao
+[IR-1699] - PushCTAEnable and PushMinLosEnable must work for Choice PMS
+[IR-1687] - Update patterns for Cebu
+[IR-1685] - Update patterns for Ermita
+[IR-1686] - Update patterns for Cagayan D'Oro
+[IR-1683] - Update patterns for Solo
+[IR-1696] - Install 2082 on the server for direct clients
+[IR-1701] - Loading data. StringIndexOutOfBoundsException
+[IR-1694] - Update testing table as a result of Ticket IR-1607 fixed
+[IR-1607] - Make a full description list of -t, -u, -d... options
+[IR-1676] - Error message (email) after server time out
+[IR-1702] - Adjust JVM's -Xmx memory setting and set the option datacenter.loadingmode.finaldecision = OneByOne on RoomKey's push servers
+[IR-1684] - Update patterns for Surabaya
+[IR-1601] - LY ADR and LY Occ in Group Pricing window need to be shifted by 1 day like in Table (LY Stats block)
+[IR-1615] - RPD incorrect date selection closes the program
+[IR-1695] - Install 2082 exe for Red Planet hotels
+[IR-1697] - Update price mesh for Red Planet ID hotels 
+[IR-1680] - Update patterns for Makassar
+[IR-1682] - Update patterns for Pekan Baru
+[IR-1150] - create Test hotel assembly from scratch for testing and demo purposes  (Opera PMS)
+[IR-1679] - New release 2082
+[IR-1645] - Update patterns for Naha
+[IR-1639] - Change scale of Sales Dynamics graph from # of rooms to occ (%)
+[IR-1517] - iRates properties description
+[IR-1623] - Update patterns for RP hotels
+[IR-1675] - Add a left and right arrows on the graphs to scroll days backwards and forward
+[IR-265] - Periodic database backup
+[IR-1656] - Patterns comparison (estimation) charts
+
+Version 1.0.32-2082	(2015-11-25 22:00:38.479000)
+
+[IR-1678] - 2 out of 4 emailed reports did not run at all during scheduler job with 2081 exe
+[IR-1672] - Sales simulator analysis
+
+Version 1.0.32-2081	(2015-11-20 19:21:49.228000)
+
+[IR-1654] - Modify error message of scheduler stopping when no hotels are selected
+[IR-1641] - 2-way sync of seasons.xml and GUI
+[IR-1674] - All emails coming from irates program should have an ip address where they're sent from
+[IR-1632] - any scheduled task must start at specified time
+[IR-1597] - Eliminate shocks (drops) in iRates recommendations when crossing night audit time
+[IR-1633] - Make sure that all scheduled tasks (push and emailed reports) are scheduled according to the property's timezone, not the computer timezone
+[IR-1659] - Our of bound error message on Ramada Airport with 2061 exe
+[IR-1671] - Update server for direct clients to 2079 exe
+[IR-1669] - 2079 exe for Red Planet
+[IR-1636] - Update patterns for Amorsolo
+[IR-1663] - New release 2079
+[IR-1666] - New release 2080
+[IR-1622] - Implement the ability to automatically detect and keep track of any changes a user made in iRates control files
+[IR-1616] - Transition all Red Planet hotels from embedded database into separated one
+[IR-825] - Review and match all data mapping and formula documents
+
+Version 1.0.32-2080	(2015-10-30 14:02:03.185000)
+
+[IR-1664] - Scheduled Auto push not functioning on Comfort Inn Bloomington hotel
+[IR-1618] - Create a tool (utility) to move data from old embedded db to new separate db
+
+Version 1.0.32-2079	(2015-10-28 18:27:50.813000)
+
+[IR-1661] - New release 2075
+[IR-1658] - Create a parameter to turn on and off compression and cleanup on schedule
+
+Version 1.0.32-2062	(2015-10-27 19:53:20.915000)
+
+[IR-1638] - Write the instruction which describes the process of iRates release creation
+[IR-1658] - Create a parameter to turn on and off compression and cleanup on schedule
+[IR-1556] - Table report enhancements
+[IR-912] - Country dependence in the program (language, currency, date, numbers)
+[IR-911] - test
+[IR-1634] - create new assembly for Surawong hotel (Roomkey)
+[IR-1629] - Update Red Planet hotels to 2061 exe - please do Ortigas first
+[IR-1647] - Update patterns for Bekasi
+[IR-1644] - Update patterns for Asoke
+[IR-1625] - Update patterns for Makati
+[IR-1600] - Exploratory ticket about system tray feature and separate db
+[IR-1631] - Update instructions document for dumping separate db
+[IR-1637] - Update patterns for Ortigas
+[IR-1643] - Update patterns for Quezon
+[IR-1646] - Update patterns for Pasar Baru
+[IR-1642] - iRates will not run if there is only one hotel  
+[IR-1640] - fix database for Inn at the Cove 
+[IR-1624] - Update patterns for Aseana
+[IR-1635] - create compset module (revcaster) for Surawong hotel
+[IR-1591] - Red Planet. Analysis of rates
+[IR-1518] - Soft for roomnight state  analysis
+[IR-1620] - New release 2061
+[IR-1484] - Correct order of columns in Table view got shifted after switching to the next few months 
+[IR-1613] - New release 2057
+
+Version 1.0.32-2058	(2015-09-30 18:42:12.004742)
+
+[IR-1597] - Eliminate shocks (drops) in iRates recommendations when crossing night audit time
+[IR-1614] - error message about missing reports is showing on Opera property
+[IR-1484] - Correct order of columns in Table view got shifted after switching to the next few months 
+[IR-150] - Develop "Group displacement analysis" module
+
+Version 1.0.32-2057	(2015-09-28 13:34:15.334005)
+
+[IR-1606] - Report_decisions_changes saves unpushed racks during manual push
+[IR-1599] - New release 2048
+[IR-1598] - error when loading past dates report for Opera hotel
+[IR-3] - Hide iRates in system tray
+[IR-1518] - Soft for roomnight state  analysis
+[IR-1612] - fix assembly for Ramada Airport hotel 
+[IR-1610] - software cannot connect to gmail server when loading reports for Opera hotel- Ramada Airport
+[IR-1609] - Ramada Airport hotel not loading data correct
+
+Version 1.0.32-2052	(2015-09-22 21:50:00.210896)
+
+[IR-1606] - Report_decisions_changes saves unpushed racks during manual push
+[IR-1605] - IR-1504 doesn't work when Secondary report is absent (Opera)
+[IR-150] - Develop "Group displacement analysis" module
+[IR-1604] - Unhandled exception error in "Show achieved results"  module
+[IR-3] - Hide iRates in system tray
+[IR-1549] - Default blocks in Table and Panel on the right (Calendar View) that need to be open at First launch
+[IR-1598] - error when loading past dates report for Opera hotel
+[IR-230] - Automate pattern tuning
+
+Version 1.0.32-2049	(2015-09-14 19:14:46.978689)
+
+[IR-1588] - New release 2040
+[IR-1593] - iRates scheduler (both Emailed reports and Push Auto mode ) not working correctly with 2040  
+[IR-1560] - Advance pickup reprot and Cancellations report when Rates report is broken or missing
+[IR-825] - Review and match all data mapping and formula documents
+[IR-1589] - LM Auto push mode did not start on time 
+[IR-1451] - IR-1395 not working on Roomkey property
+[IR-1594] - Group pricing dialog shows discount field for the dates with patterns
+[IR-150] - Develop "Group displacement analysis" module
+[IR-1517] - iRates properties description
+[IR-1591] - Red Planet. Analysis of rates
+[IR-1595] - Compset average is not showing in group pricing module with 2040 exe 
+[IR-1379] - program gave a message "Hotel data is up to date" when full set of report was not downloaded for the property
+[IR-1584] - New release 2032
+
+Version 1.0.32-2040	(2015-09-01 18:05:03.247668)
+
+[IR-1587] - IR-728 doesn't work with exe 2032
+[IR-1324] - Create a deploying tool for distant updating and installation of iRates and hotels
+[IR-1586] - The "-t" option doesn't work in 2032 exe
+[IR-1585] - IR-1220 doesn't work with exe 2032
+[IR-150] - Develop "Group displacement analysis" module
+[IR-1572] - New release 1971
+[IR-1567] - New release 1923
+
+Version 1.0.32-2032	(2015-08-25 22:43:16.456259)
+
+[IR-1575] - IR-598 doesn't work with exe 1971
+[IR-1556] - Table report enhancements
+[IR-1484] - Correct order of columns in Table view got shifted after switching to the next few months 
+[IR-1571] - Closing warning window "“the price of … doesn’t match the grid " starts pushing to Choice
+[IR-1583] - Can not delete value in "number of rooms" and "additional revenue" fields of Group pricing module
+[IR-1577] - Ir-820 not working with  exes 1971
+[IR-1570] - Error email when task is scheduled for Choice and password is changed
+[IR-1522] - IR-495 doesn't work with 1902 exe
+[IR-1574] - IR-1499 doesn't work with exe 1971
+[IR-3] - Hide iRates in system tray
+[IR-1582] - create installer of new type for Wyndham Garden Phoenix
+[IR-1580] - create installer of new type for Holiday Inn Bloomington (August 2015)
+[IR-1578] - create installer of new type for Holiday Inn Express Bloomington (August 2015)
+[IR-1576] - create installer of new type for Holiday Inn Express Raton (August 2015)
+[IR-1565] - Make an access to Uninstall iRates through the right click on Start Apps menu 
+[IR-1573] - RP's Bekasi hotel - low recommendations for 11-Aug-2015
+[IR-216] - Develop channel mix recommendation module
+[IR-689] - Create benchmark program version for formal testing of informal features
+
+Version 1.0.32-1942	(2015-08-10 19:11:00.789771)
+
+[IR-1568] - IR-1411 doesn't work with exe 1923
+[IR-3] - Hide iRates in system tray
+[IR-1504] - lastSuccessfulUpdateTime field is updated even if database updating wasn't sucessful
+[IR-1485] - IR-1275 doesn't work with exe 1871
+[IR-1557] - New release 1920
+[IR-1563] - create assembly for Econolodge Fontana (Choice)
+
+Version 1.0.32-1920	(2015-07-29 22:09:08.713228)
+
+[IR-1485] - IR-1275 doesn't work with exe 1871
+[IR-3] - Hide iRates in system tray
+[IR-1566] - "Show achieved results" doesn't work
+[IR-819] - Assembly creation procedure
+[IR-1564] - create compset module (revcaster) for Econolodge Fontana (Choice)
+[IR-1246] - Change embedded database to separate one
+[IR-1555] - Auto push doesn't work with exe 1913
+[IR-1518] - Soft for roomnight state  analysis
+[IR-1562] - Calendars of Arrival and Depart date don't open in the Estimate group rate module
+[IR-1506] - It is need to create timeout break of the gmail.com connetting for the  automatic reporter
+[IR-1549] - Default blocks in Table that need to be open at launch
+[IR-1498] - New "emailed reports" item - Cancellations alert
+[IR-1513] - Reporting frozen in auto-mode if reporting task is interrupted
+[IR-1150] - create Test hotel assembly from scratch for testing and demo purposes  (Opera PMS)
+[IR-1559] - recreate  iRates Test hotel assembly from scratch for testing and demo purposes  (Roomkey PMS)
+[IR-1552] - New release 1913
+
+Version 1.0.32-1915	(2015-07-14 16:27:59.205686)
+
+[IR-1526] - add dbTransactionTimeout parameter to irates.properties
+[IR-1504] - lastSuccessfulUpdateTime field is updated even if database updating wasn't sucessful
+[IR-1554] - "Unhandled exception" error during updating iRatesTestHotel
+[IR-1513] - Reporting frozen in auto-mode if reporting task is interrupted
+[IR-1506] - It is need to create timeout break of the gmail.com connetting for the  automatic reporter
+[IR-1329] - Make a universal exe installer (for Mac and Windows) 
+[IR-1522] - IR-495 doesn't work with 1902 exe
+[IR-1418] - Review patterns for Rodeway Inn hotel
+
+Version 1.0.32-1913	(2015-07-09 17:14:24.898653)
+
+[IR-1500] - New release 1884
+[IR-1246] - Change embedded database to separate one
+[IR-1546] - Roomkey mapping - historic data not showing correctly
+[IR-1518] - Soft for roomnight state  analysis
+[IR-1548] - Create new assembly for Marina Village Inn hotel - Roomkey
+[IR-1547] - create new assembly for Pismo Lighthouse Suites - Roomkey
+[IR-1535] - Ayala / Amorsolo - no recommendations
+[IR-1517] - iRates properties description
+[IR-1550] - create compset module for Pismo Lighthouse suites
+[IR-1551] - create revcaster module for Marina Village Inn
+[IR-1543] - cannot proceed 53... issue on Roomkey properties 
+[IR-1538] - Create new assembly for Paso Robles Inn hotel - Roomkey
+[IR-1329] - Make a universal exe installer (for Mac and Windows) 
+[IR-1525] - Push-results report shows incorrect restrictions changes 
+[IR-1545] - Pasar Baru - very few rate changes
+[IR-1536] - RP's Makati hotel - no recommendations
+[IR-1449] - "Hotel data is up to date" message for Opera properties  
+[IR-1522] - IR-495 doesn't work with 1902 exe
+[IR-1532] - RP's Bekasi hotel - no recommendations
+[IR-1534] - create installer of new type for Comfort Inn Fort Worth
+[IR-1544] - Update patterns on the server for RP Ayala hotel
+[IR-1540] - Duplicate emails sent for Ermita (RP hotel)
+[IR-1542] - {Ayala} Rename shell 
+[IR-1541] - [Aseana] Please change currency code from IDR to PHPR
+[IR-1527] - Please review attachment about Naha recommendations
+[IR-1539] - create compset module (revcaster) for Paso Robles Inn hotel 
+[IR-1531] - Review the recommendations for Makati
+[IR-1537] -  Reviev the recommendations for Makati (estimate the quality of patterns) 
+[IR-1530] - Review the recommendations for Bekasi
+[IR-1533] - Reviev the recommendations for Bekasi (estimate the quality of patterns)
+[IR-1515] - Create new assembly for Red Planet Ayala hotel - Roomkey  
+[IR-1524] - Recommended CTA were pushed even though they were not accepted
+[IR-1513] - Reporting frozen in auto-mode if reporting task is interrupted
+[IR-1504] - lastSuccessfulUpdateTime field is updated even if database updating wasn't sucessful
+[IR-1523] - create installer of new type for Rodeway Inn hotel 
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-1493] - Check the correctness of input reports for Choice
+[IR-1506] - It is need to create timeout break of the gmail.com connetting for the  automatic reporter
+[IR-1507] - IR-1185 doesn't work completely with exe 1893
+[IR-1510] - End of month report needs to open on the most recent month that has ended
+[IR-1519] - New release 1902
+[IR-1321] - Translate all the scheduling settings into irates.properties
+[IR-1474] - Review changes dialog doesn't open when tablet.showMinstay = false
+[IR-1512] - Re-make patterns for Red Planet Naha Hotel
+[IR-1488] - Closing warning window "Pushed price is outside of the min/max limits" starts pushing to RoomKey, Choice
+[IR-1521] - Start sprint 49
+[IR-1484] - Correct order of columns in Table view got shifted after switching to the next few months 
+[IR-1498] - New "emailed reports" item - Cancellations alert
+[IR-1520] - Add new room types to Hat Yai hotel assembly
+
+Version 1.0.32-1901	(2015-05-26 11:00:48.431833)
+
+[IR-1246] - Change embedded database to separate one
+[IR-1507] - IR-1185 doesn't work completely with exe 1893
+[IR-1515] - Create new assembly for Red Planet Ayala hotel - Roomkey  
+[IR-1516] - create compset module (revcaster) for Red Planet Ayala hotel -Roomkey
+[IR-1514] - Update version to 1893 on all Red Planet servers
+[IR-1512] - Re-make patterns for Red Planet Naha Hotel
+[IR-1489] - Up and down arrows  "For the next day:" doesn't work with value 0 in the Auto push mode.
+[IR-1511] - Naha situation deep analysis
+[IR-1508] - Add new default parameters to irates.properties file for all future assemblies
+[IR-1439] - New "booking pace" feature
+[IR-1447] - When switching hotels scheduler check marks disappear  
+[IR-1501] - New release 1893
+[IR-1499] - Make demand level visible for past days
+[IR-1473] - Create new installer of new type for ComfortInnGaslamp
+[IR-1493] - Check the correctness of input reports for Choice
+[IR-1485] - IR-1275 doesn't work with exe 1871
+[IR-1472] - Clean database for ComfortInnGaslamp
+[IR-1486] - RatePlanTiers have not to be shown in Table report if they are hidden in Restrictions block
+[IR-1502] - Start new sprint
+[IR-1435] - Move "Review changes" menu item to a button in GUI
+[IR-1451] - IR-1395 not working on Roomkey property
+[IR-1462] - add new parameter to irates.properties file ( tablet.showDemandMinMax [true | false])
+
+Version 1.0.32-1893	(2015-04-28 20:18:48.546817)
+
+[IR-1481] - IR-1060 not working with exe 1871
+[IR-1454] - create Choice assembly for Quality Inn and suites Greenfield
+[IR-1321] - Translate all the scheduling settings into irates.properties
+[IR-1394] - loading data process takes long time when program is not connected to internet
+
+Version 1.0.32-1883	(2015-04-21 19:35:17.001351)
+
+[IR-1484] - Correct order of columns in Table view got shifted after switching to the next few months 
+[IR-1492] - New release 1879
+[IR-1497] - Create assembly for Stafford's Bay View Inn
+[IR-1496] - Create assembly for Stafford's Crooked River Lodge
+[IR-1495] - Create assembly for Stafford's Perry Hotel
+[IR-1487] - Choose date dialog issues
+[IR-1481] - IR-1060 not working with exe 1871
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-1491] - The program can't parse any records in Statistics and Rate reports for Choice assembly
+[IR-1490] - IR-1387 not working with exe 1871
+[IR-1479] - New release 1871
+
+Version 1.0.32-1879	(2015-04-14 21:57:22.550546)
+
+[IR-1481] - IR-1060 not working with exe 1871
+[IR-1458] - New release 1863
+[IR-1459] - New sprint
+[IR-1323] - Make a tool for correct stopping of scheduler
+[IR-1322] - Create working iRates detector
+[IR-1482] - IR-1427 not working with exe 1871
+[IR-1425] - Cleaning database message at startup
+[IR-1477] - create installer of new type for Comfort Inn Ouray
+[IR-1443] - modify current algorithm to process compset reports 
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-1433] - IR-806 not working with 1848 exe  
+[IR-1454] - create Choice assembly for Quality Inn and suites Greenfield
+[IR-500] - For past dates display all 3 graphs
+
+Version 1.0.32-1871	(2015-04-07 00:11:59.395687)
+
+[IR-1446] - Archiving of reports, database cleanup and compression tool for Opera PMS
+[IR-1445] - Archiving of reports, database cleanup and compression tool for Choice PMS
+[IR-500] - For past dates display all 3 graphs
+[IR-1477] - create installer of new type for Comfort Inn Ouray
+[IR-1476] - Clean database for Comfort Inn Ouray
+[IR-1475] - New division of iRates properties between properties and statuses files
+[IR-1327] - New dynamic property file with statuses
+[IR-1463] - Auto push mode makes pushing to PMS  every 5 minutes
+[IR-1471] - the error during installation new assembly on MAC 
+[IR-1185] - Need to be able to review and modify current settings of scheduled tasks
+[IR-1455] - Create new assembly for Avila Lighthouse Suites Hotel - Roomkey
+[IR-1320] - Change the assembly creation procedures according to IR-1061 implementation
+[IR-1438] - New release 1852
+[IR-1448] - New release 1858
+[IR-1433] - IR-806 not working with 1848 exe  
+[IR-1470] - iRates scheduler doesn't work on Windows Server 2012 computer for customer's assemblies
+[IR-1443] - modify current algorithm to process compset reports 
+[IR-1322] - Create working iRates detector
+[IR-1452] - create Choice assembly for Quality Inn and Suites Obetz
+[IR-1464] - create Choice assembly for Comfort Inn Obetz
+[IR-1460] - Control block shows incorrect order of lines
+[IR-1468] - Create revcaster settings for ComfortInnObetz
+[IR-1425] - Cleaning database message at startup
+[IR-1453] - create Choice Assembly for Quality Inn and Suites North Polaris 
+[IR-1441] - Group pricing dialog does not show correct number of rooms available if there are group rooms not P/up 
+[IR-1440] - Create a parameter to hide demand min/max from Control block and from Settings menu
+
+Version 1.0.32-1863	(2015-03-23 14:46:36.041558)
+
+[IR-1457] - "Value is null" error for AvilaLighthouseSuites
+[IR-1431] - New release 1848
+[IR-1456] - Arithmetic exception for QualityInnAndSuitesGreenfield
+[IR-500] - For past dates display all 3 graphs
+[IR-1450] - program does not load reports during Auto push Mode (LM, hourly)
+[IR-1369] - Emailed reports options should check for the last update time
+[IR-1440] - Create a parameter to hide demand min/max from Control block and from Settings menu
+[IR-1110] - Sync GUI update processes with scheduler settings
+[IR-1442] - IR-765 not functioning in iRates exe
+[IR-1267] - Uninstaller for iRates exe
+[IR-1435] - Move "Review changes" menu item to a button in GUI
+[IR-1323] - Make a tool for correct stopping of scheduler
+[IR-1419] - Create release version with local url request for RoomKey for testing
+[IR-1441] - Group pricing dialog does not show correct number of rooms available if there are group rooms not P/up 
+[IR-1429] - Remove CTA restrictions from pushes
+
+Version 1.0.32-1858	(2015-03-12 08:41:57.423971)
+
+[IR-1434] - Incorrect Settings menu after hotel changing
+[IR-1353] - Add message in the emailed reports - Opera daily properties
+[IR-1444] - Start new sprint
+[IR-1267] - Uninstaller for iRates exe
+[IR-1411] - Remove LOS (Length Of Stay) restrictions from all pushes
+[IR-1327] - New dynamic property file with statuses
+[IR-1427] - Add Roomkey ID's (parameters) to GUI
+[IR-1424] - New release 1838
+[IR-1306] - comset report ... is outdated error appearing on assemblies
+
+Version 1.0.32-1853	(2015-03-06 21:11:25.820264)
+
+[IR-1381] - Database cleanup and compression tool
+[IR-1437] - Create installer of new type for cleaned The Woodlands hotel
+[IR-1436] - clean database for The Woodlands hotel
+[IR-1426] - 1724 exe installation failure on Comfort Inn Bloomington computer
+[IR-1353] - Add message in the emailed reports - Opera daily properties
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-495] - Pressing Cancel on incorrect Choice Password
+[IR-1267] - Uninstaller for iRates exe
+[IR-1319] - Make iRates support other time resolutions for Opera hourly settings
+[IR-1418] - Review patterns for Rodeway Inn hotel
+[IR-1432] - Need to be able to take into account available promotions while calculating recommendations
+[IR-1430] - Analyze Decision generators table for cleaning
+
+Version 1.0.32-1848	(2015-02-27 19:57:26.577923)
+
+[IR-1185] - Need to be able to review and modify current settings of scheduled tasks
+[IR-1353] - Add message in the emailed reports - Opera daily properties
+[IR-1387] - Compressing old data message at startup
+[IR-1369] - Emailed reports options should check for the last update time
+[IR-1419] - Create release version with local url request for RoomKey for testing
+[IR-1411] - Remove LOS (Length Of Stay) restrictions from all pushes
+
+Version 1.0.32-1838	(2015-02-20 19:12:02.490939)
+
+[IR-1421] - Start new sprint
+[IR-1414] - New release 1788
+[IR-1417] - New release 1819
+[IR-1381] - Database cleanup and compression tool
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-1344] - date format for Table report,Min/Max setting for some hotels is not correct
+[IR-1150] - create Test hotel assembly from scratch for testing and demo purposes 
+[IR-1422] - create installer of new type for Comfort Inn Bloomington and clean database
+[IR-1419] - Create release version with local url request for RoomKey for testing
+[IR-1420] - Pasar Baru recommendations on two servers don't match
+[IR-1185] - Need to be able to review and modify current settings of scheduled tasks
+[IR-1413] - add ability to choose number of days for daily rate recommendations email
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-1193] - Move "scheduler" parameters from the assembly installer to the irates.properties file
+[IR-1345] - IO Error on Dean Hotel for 2 computers
+
+Version 1.0.32-1815	(2015-02-11 17:55:38.027797)
+
+[IR-1411] - Remove LOS (Length Of Stay) restrictions from all pushes
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-1381] - Database cleanup and compression tool
+[IR-1331] - Open Review Changes report on the base room type by default
+[IR-1395] - error message during pushing when it is not able to connect to PMS
+[IR-1410] - Review patterns for Pasar Baru
+[IR-1409] - New release 1775
+[IR-1408] - New release 1724
+
+Version 1.0.32-1787	(2015-02-09 20:55:50.585704)
+
+[IR-1381] - Database cleanup and compression tool
+[IR-249] - Using keyboard to navigate in the Table
+[IR-1387] - Compressing old data message at startup
+[IR-1294] - Implement in iRates the functionality to check that all the options in irates.properties file are unique
+
+Version 1.0.32-1775	(2015-02-03 21:04:44.324459)
+
+[IR-1294] - Implement in iRates the functionality to check that all the options in irates.properties file are unique
+[IR-1406] - automode.enable = no does not hide auto push menu with 1672 exe
+[IR-1367] - Modify API for Roomkey PMS to request only Base rate and Base room type in the Prices report
+[IR-924] - Email to the user about advance pickup
+[IR-1366] - Scheduled emails not sending - Ira's three hotels
+[IR-1386] - Start new sprint when version passes testing
+
+Version 1.0.32-1723	(2015-02-02 19:33:04.781883)
+
+[IR-1366] - Scheduled emails not sending - Ira's three hotels
+[IR-1407] - Emailed reports are not coming when set in GUI if Auto modes are on 
+[IR-1382] - GUI autoscheduler doesn't save correct settings in quartz
+[IR-1379] - program gave a message "Hotel data is up to date" when full set of report was not downloaded for the property
+[IR-1401] - !!! Adapt to new Choice HotelStatistics report !!!
+
+Version 1.0.32-1711	(2015-01-30 20:49:15.171107)
+
+[IR-1391] - Install 1690 exe on RedPlanet computers
+[IR-1401] - !!! Adapt to new Choice HotelStatistics report !!!
+[IR-1400] - New release 1705
+[IR-1399] - New release 1698
+[IR-1398] - New release 9
+[IR-1373] - Create new assembly - Inn at the Cove - Roomkey
+
+Version 1.0.32-1705	(2015-01-28 18:25:34.046293)
+
+[IR-1382] - GUI autoscheduler doesn't save correct settings in quartz
+
+Version 1.0.32-1698	(2015-01-27 17:18:35.262096)
+
+[IR-1382] - GUI autoscheduler doesn't save correct settings in quartz
+[IR-967] - Localization files directory
+[IR-1340] - user input not saved with 1611 exe
+[IR-1384] - New release 1.0.32-1666
+[IR-1393] - Add NumberOfCompressedFiles to the irates.properties file
+
+Version 1.0.32-1671	(2015-01-23 18:10:12.185500)
+
+[IR-1340] - user input not saved with 1611 exe
+[IR-1383] - Archive already processed reports in RoomKey hotels
+[IR-1367] - Modify API for Roomkey PMS to request only Base rate and Base room type in the Prices report
+[IR-1349] - Change names of the installers
+[IR-1388] - New release 1678
+[IR-1389] - New release 1680
+[IR-1390] - New release 1681
+
+Version 1.0.32-1675	(2015-01-21 20:03:09.913724)
+
+[IR-1383] - Archive already processed reports in RoomKey hotels
+[IR-1374] - Create new assembly for Knights Inn Anaheim - Roomkey
+[IR-1373] - Create new assembly - Inn at the Cove - Roomkey
+[IR-1380] - daily and weekly pick up report shows incorrect numbers
+[IR-1377] - About menu copyright still has 2014 as the end date with 1659 exe
+[IR-967] - Localization files directory
+[IR-1376] - New release 1.0.32-1659
+[IR-1379] - program gave a message "Hotel data is up to date" when full set of report was not downloaded for the property
+[IR-1378] - program deletes previous reports when in LM mode for Rooomkey PMS
+
+Version 1.0.32-1663	(2015-01-19 17:12:32.945798)
+
+[IR-1367] - Modify API for Roomkey PMS to request only Base rate and Base room type in the Prices report
+[IR-1379] - program gave a message "Hotel data is up to date" when full set of report was not downloaded for the property
+[IR-1378] - program deletes previous reports when in LM mode for Rooomkey PMS
+[IR-1383] - Archive already processed reports in RoomKey hotels
+[IR-1372] - Add stay restrictions to Roomkey API
+[IR-1371] - Red Planet Palembang does not work - no emails, no recommendations -  now same with Asoke
+[IR-1362] - Download only the necessary amount of dates (not the whole year) during automatic scheduled downloads
+[IR-1358] - Check the fields we can delete in case of 15 minutes update
+[IR-1365] - Please describe what reports from Roomkey PMS are needed for rate recommendations
+[IR-1363] - New release 1.0.32-1653
+
+Version 1.0.32-1659	(2015-01-14 18:31:13.416706)
+
+[IR-1375] - Wrong numbers on the block "Availanility by roomtype" for the property
+[IR-1373] - Create new assembly - Inn at the Cove - Roomkey
+[IR-1338] - column length not changing after opening last year stat block in Table view with 1611 exe
+[IR-1374] - Create new assembly for Knights Inn Anaheim - Roomkey
+[IR-1362] - Download only the necessary amount of dates (not the whole year) during automatic scheduled downloads
+[IR-1318] - New release 1.0.32-1592
+[IR-1309] - New release 1.0.32-1561
+[IR-1315] - New release 1.0.32-1575
+[IR-1330] - New release 1.0.32-1606
+[IR-1313] - New release 1.0.32-1568
+[IR-1328] - New release 1.0.32-1599
+[IR-1356] - New release 1.0.32-1647
+[IR-1348] - New release 1.0.32-1640
+[IR-1370] - Red Planet Angeles does not work - no emails, no recommendations
+[IR-1368] - Aseana: Scheduler doesn't update data before recalculating and making recommendations
+[IR-1365] - Please describe what reports from Roomkey PMS are needed for rate recommendations
+[IR-1358] - Check the fields we can delete in case of 15 minutes update
+[IR-1355] - Changing min/max settings for rack affects recommendations for other dates
+[IR-1361] - Red Planet: Scheduler doesn't update data before recalculating and making recommendations (from Jai)
+[IR-1357] - Review Aseana patterns
+
+Version 1.0.32-1654	(2014-12-25 19:12:53.677658)
+
+[IR-1362] - Download only the necessary amount of dates (not the whole year) during automatic scheduled downloads
+
+Version 1.0.32-1646	(2014-12-23 16:35:45.842706)
+
+[IR-1350] - Dislpay data instead of empty space for the dates that have no reservation history information
+[IR-1355] - Changing min/max settings for rack affects recommendations for other dates
+[IR-1354] - Tune Hotel Aseana shows the same recommendation during 17 hours
+[IR-249] - Using keyboard to navigate in the Table
+[IR-1352] - Update irates.properties file based on IR-924
+[IR-1094] - Create assembly for Metropolis Resort  (roomkey)
+[IR-1015] - Create assembly for Claridge Hotel (RoomKey)
+[IR-1054] - Scheduled emails with Table report, called "Daily statistics"
+[IR-1326] - Modify irates.properties file according to IR-1193 and IR-1194 implementation
+[IR-1335] - Modify irates.properties file
+[IR-825] - Review and match all data mapping and formula documents
+[IR-954] - create assembly for Hotel 72 - Rodeway Inn Casino Center
+[IR-1347] - New release 1.0.32-1636
+[IR-1346] - New release 1.0.32-1632
+[IR-1341] - New release 1.0.32-1622
+[IR-1345] - IO Error on Dean Hotel for 2 computers
+[IR-1240] - create new assembly for Village Green Hotel (roomkey) - demo hotel
+
+Version 1.0.32-1640	(2014-12-17 18:07:47.817225)
+
+[IR-1061] - create new properties in irates.properties file to be able to control default min/max Rack and min/max Rating
+
+Version 1.0.32-1636	(2014-12-16 16:49:16.161146)
+
+[IR-1127] - Last minute mode
+
+Version 1.0.32-1632	(2014-12-15 19:09:48.491123)
+[IR-1127] - Last minute mode
+[IR-1054] - Scheduled emails with Table report, called "Daily statistics"
+[IR-924] - Email to the user about advance pickup
+[IR-1061] - create new properties in irates.properties file to be able to control default min/max Rack and min/max Rating
+[IR-1338] - column length not changing after opening last year stat block in Table view with 1611 exe
+[IR-1339] - New release 1.0.32-1618
+[IR-1333] - New release 1.0.32-1611
+[IR-1343] - Modify the assembly's installer to install new configuration files for periodical scheduler tasks with the frequency of less than 1 hour
+
+Version 1.0.32-1622	(2014-12-11 17:24:48.721232)
+
+[IR-1340] - user input not saved with 1611 exe
+
+Version 1.0.32-1618	(2014-12-10 20:19:43.524426)
+
+[IR-1254] - when starting exe check for previous successful downloading of reports 
+[IR-1193] - Move "scheduler" parameters from the assembly installer to the irates.properties file
+[IR-1336] - Install 1611 exe on RedPlanet server
+[IR-1337] - iRates automatic reporter logs
+[IR-1260] - The names "Roomtype differenti.." and "Availability by roomt.." are shortened in the TAble and Calendar view on the MAC computer
+[IR-1092] - create assembly for Tune hotel Aseana (roomkey)
+[IR-1334] - Wrong timezone, locale for Aseana
+[IR-1285] - add parameter to default  irates.properties file and use for new assemblies
+[IR-1275] - Program closes when incorrect password is entered (Choice hotel)
+[IR-1071] - Daily price recommendation report is not sent with Secondary level of report missing
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-1312] - Recreate Aseana assembly with 200 rooms
+
+Version 1.0.32-1611	(2014-12-03 18:32:39.524061)
+
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-1332] - Incorrect merge operational and historical reservation reports for TheBlennerhassettHotel
+[IR-1308] - Last year's stats block - Month Total is not correct
+[IR-1312] - Recreate Aseana assembly with 200 rooms
+
+Version 1.0.32-1606	(2014-12-02 14:37:59.670279)
+
+[IR-1061] - create new properties in irates.properties file to be able to control default min/max Rack and min/max Rating
+[IR-17] - Accept all button
+
+Version 1.0.32-1599	(2014-12-01 20:13:47.995895)
+
+[IR-267] - Assigning rating for the dates with 0% or very low % occ
+[IR-1061] - create new properties in irates.properties file to be able to control default min/max Rack and min/max Rating
+[IR-1267] - Uninstaller for iRates exe
+[IR-17] - Accept all button
+[IR-1314] - Start new sprint when version passes testing
+[IR-1316] - New release 1.0.32-1583
+[IR-1194] - PMS-specific assembly scheduler parameters
+[IR-1193] - Move "scheduler" parameters from the assembly installer to the irates.properties file
+[IR-1240] - create new assembly for Village Green Hotel (roomkey) - demo hotel
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-1306] - comset report ... is outdated error appearing on assemblies
+[IR-1270] - Table view needs to open on current date after switching hotels
+[IR-1289] - Authentication error needs to appear one time
+
+Version 1.0.32-1593	(2014-11-26 19:52:03.033699)
+
+[IR-1312] - Recreate Aseana assembly with 200 rooms
+[IR-1306] - comset report ... is outdated error appearing on assemblies
+[IR-1317] - Error message when hourly Opera setting inputreports.opera.resolution is more than 2
+[IR-1061] - create new properties in irates.properties file to be able to control default min/max Rack and min/max Rating
+[IR-1283] - There is no validation of the user input in the program's editable fields
+[IR-1288] - Make automode.enable property display/hide auto push menu option but not affect all other scheduler settings
+[IR-1187] - Update scheduler menu in GUI to match the description in the attached file
+
+Version 1.0.32-1582	(2014-11-25 19:34:30.669183)
+
+[IR-1187] - Update scheduler menu in GUI to match the description in the attached file
+[IR-1288] - Make automode.enable property display/hide auto push menu option but not affect all other scheduler settings
+
+Version 1.0.32-1575	(2014-11-24 20:09:56.081224)
+
+[IR-1299] - New release 1.0.32-1545
+[IR-1301] - New release 1.0.32-1551
+[IR-1314] - Start new sprint when version passes testing
+[IR-1291] - Start new sprint when version passes testing
+[IR-1204] - Slow loading times for Tune hotels
+[IR-1187] - Update scheduler menu in GUI to match the description in the attached file
+[IR-1282] - RoomKey API improvement Oct 30 2014
+
+Version 1.0.32-1568	(2014-11-21 20:44:16.499022)
+
+[IR-1312] - Recreate Aseana assembly with 200 rooms
+[IR-1268] - Uninstaller for iRates assemblies
+[IR-1187] - Update scheduler menu in GUI to match the description in the attached file
+[IR-1266] - Logs need to be separated for individual hotels/assemblies
+[IR-1303] - create assembly for Quality Inn & Suites Conference Center
+[IR-1310] - create compset module for Quality Inn & Suites Conference Center 
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1302] - New release 1.0.32-1557
+
+Version 1.0.32-1561	(2014-11-19 21:11:35.536903)
+
+[IR-1187] - Update scheduler menu in GUI to match the description in the attached file
+[IR-1304] - create new assembly Sleep Inn & Suites Ocala - Belleview
+[IR-1307] - create compset module (revcaster) for  Sleep Inn & Suites Ocala
+[IR-1273] - create assembly for Hotel Ruidoso (Roomkey)
+[IR-1249] - Input is not saved in a cell when moving to next month in the Table
+[IR-1303] - create assembly for Quality Inn & Suites Conference Center
+
+Version 1.0.32-1557	(2014-11-17 18:10:46.079296)
+
+[IR-1300] - Input is not working on 1545 exe
+[IR-1257] - Remove Rate Plan Tiers from being modified during autopush
+
+Version 1.0.32-1550	(2014-11-14 21:15:53.083658)
+
+[IR-1269] - New release 1.0.32-1502
+[IR-1284] - New release 1.0.32-1515
+[IR-1290] - New release 1.0.32-1521
+[IR-1293] - New release 1.0.32-1536
+[IR-1298] - New release 1.0.32-1538
+[IR-1244] - Add the name of the hotel when reports are emailed. 
+[IR-1257] - Remove Rate Plan Tiers from being modified during autopush
+[IR-1295] - Unhandled Exception Error for RoomKey Hotels
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+
+Version 1.0.32-1544	(2014-11-12 18:47:08.382315)
+
+[IR-1060] - modify text in error message about daily price recommendations report failing to be sent
+[IR-1245] - A problem with historical reservations reports for TheBlennerhassettHotel
+[IR-1249] - Input is not saved in a cell when moving to next month in the Table
+[IR-1248] - Alert "pushed price is outside of the min/max limits"
+[IR-1286] - Remove the effects of the implementation IR-1248
+
+Version 1.0.32-1538	(2014-11-11 20:17:12.719999)
+
+[IR-1240] - create new assembly for Village Green Hotel (roomkey) - demo hotel
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-1233] - Quality control filter for data coming from RoomKey API
+[IR-1196] - Build Woodlands Assembly(Using  osr report)
+
+Version 1.0.32-1524	(2014-11-10 19:23:29.860789)
+
+[IR-1135] - Auto assembly procedure for RoomKey properties
+[IR-1196] - Build Woodlands Assembly(Using  osr report)
+[IR-1292] - Create compset module for The Woodlands inn Hotel
+[IR-1281] - New release 1.0.32-1509
+[IR-1220] - Table report doesn't  show the data of the last date of selected period in the calendar
+[IR-1249] - Input is not saved in a cell when moving to next month in the Table
+[IR-1233] - Quality control filter for data coming from RoomKey API
+
+Version 1.0.32-1521	(2014-11-06 19:57:36.640422)
+
+[IR-889] - change wording on error message when missing one of the reports 
+[IR-1239] -  "Push to Choice has finished successfully" message appears only if the window is active
+[IR-1248] - Alert "pushed price is outside of the min/max limits"
+[IR-1196] - Build Woodlands Assembly(Using  osr report)
+[IR-1271] - Comfort Inn Gaslamp Error on Windows 8 computer
+[IR-1274] - create compset module (revcaster) for Hotel Ruidoso
+
+Version 1.0.32-1513	(2014-10-31 19:13:56.627799)
+
+[IR-1248] - Alert "pushed price is outside of the min/max limits"
+[IR-1272] - Start new sprint when version passes testing
+[IR-1265] - New release 1.0.32-1498
+
+Version 1.0.32-1509	(2014-10-30 19:23:15.784454)
+
+[IR-1256] -  Create a parameter to hide/unhide rate plan tiers and suggested rate plan tiers from gui
+[IR-1257] - Remove Rate Plan Tiers from pushing
+[IR-1253] - The error of Aseana hotel during running the assembly.
+[IR-1009] - Prices size correction for table view
+[IR-1228] - New release 1.0.32-1448
+[IR-1261] - New release 1.0.32-1494
+[IR-1251] - New release 1.0.32-1475
+[IR-1255] - New release 1.0.32-1480
+[IR-1258] - New release 1.0.32-1486
+[IR-889] - change wording on error message when missing one of the reports 
+[IR-1186] - Make <price-mesh-update>yes</price-mesh-update> default for all Choice assemblies
+
+Version 1.0.32-1501	(2014-10-24 19:05:56.516762)
+
+[IR-1060] - modify text in error message about daily price recommendations report failing to be sent
+[IR-1009] - Prices size correction for table view
+[IR-1262] - add parameter to default irates.properties file and use for new assemblies
+
+Version 1.0.32-1498	(2014-10-23 20:18:20.610712)
+
+[IR-1217] - Remove update after manual push. Only leave update after scheduled push
+[IR-1264] - Clarify Property file specific line
+[IR-1254] - when starting exe check for previous successful downloading of reports 
+[IR-800] - Report checking and re-downloading for Choice
+[IR-1166] - Reports are missed in /out folders during automatic hourly push for Cebu hotel
+
+Version 1.0.32-1493	(2014-10-22 00:28:50.739455)
+
+[IR-1254] - when starting exe check for previous successful downloading of reports
+[IR-1009] - Prices size correction for table view
+[IR-1202] - create assembly for Quality Inn & Suites of the Sun Cities
+[IR-1259] - "Update compset" can not complete during running the assembly
+
+Version 1.0.32-1486	(2014-10-20 20:13:22.916286)
+
+[IR-1009] - Prices size correction for table view
+[IR-889] - change wording on error message when missing one of the reports 
+[IR-1240] - create new assembly for Village Green Hotel (roomkey) - demo hotel
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-728] - Revenue Potential reporting/dashboard
+[IR-1166] - Reports are missed in /out folders during automatic hourly push for Cebu hotel
+
+Version 1.0.32-1480	(2014-10-16 19:50:19.064102)
+
+[IR-1254] - when starting exe check for previous successful downloading of reports 
+[IR-1238] - Errors during installation assembly Aseana and than running it on Windows 8.1, Windows 8
+[IR-1202] - create assembly for Quality Inn & Suites of the Sun Cities
+[IR-1247] - New release 1.0.32-1469
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1009] - Prices size correction for table view
+
+Version 1.0.32-1475	(2014-10-14 20:14:51.697250)
+
+[IR-1250] - Comfort Inn Bloomington daily auto push not working on time 
+[IR-1234] - "e-mail sending" appears after clicking cancel to e-mail Report
+[IR-1181] - In the Monthly pickup report we don't need an ability to change a date
+[IR-1202] - create assembly for Quality Inn & Suites of the Sun Cities
+
+Version 1.0.32-1468	(2014-10-13 17:43:02.091164)
+
+[IR-1242] - Start new sprint when version passes testing
+[IR-1009] - Prices size correction for table view
+[IR-1218] - Compset module rounding modification
+[IR-1147] - Build Assembly for Hotel 77 Hilton Lodz
+[IR-1207] - New release 1.0.32-1430
+[IR-1212] - New release 1.0.32-1436
+[IR-1219] - New release 1.0.32-1442
+[IR-1231] - New release 1.0.32-1453
+[IR-1237] - New release 1.0.32-1459
+[IR-1143] - Enhance scheduler menu and modes
+
+Version 1.0.32-1463	(2014-10-10 19:51:39.752688)
+
+[IR-1240] - create new assembly for Village Green Hotel (roomkey) - demo hotel
+[IR-1173] - Incorrect time zone settings (POSIX convention)
+[IR-1241] - create compset module (revcaster) for Village Green Hotel (roomkey)
+[IR-1147] - Build Assembly for Hotel 77 Hilton Lodz
+[IR-1233] - Quality control filter for data coming from RoomKey API
+[IR-1220] - Table report doesn't  show the data of the last date of selected period in the calendar
+
+Version 1.0.32-1459	(2014-10-08 18:23:26.864063)
+
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1203] - create assembly for The Blennerhassett Hotel (roomkey)
+[IR-1235] - create installer of new type for Comfort Inn Bloomington
+[IR-1170] - Email recommendations not being sent out every hour
+[IR-1191] - create assembly for Comfort Inn and Suites Artesia
+[IR-1230] - Review Indonesian RedPlanet hotel patterns in comparison with other RedPlanet hotels
+[IR-1220] - Table report doesn't  show the data of the last date of selected period in the calendar
+
+Version 1.0.32-1453	(2014-10-06 20:13:31.208828)
+
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1229] - "cannot parse rack"  error message while regular pushing to Choice
+[IR-1221] - Old Rack column in the Review Changes is calculated incorrectly.
+
+Version 1.0.32-1447	(2014-10-03 20:28:23.244188)
+
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1121] - Test the difference between rough and precise algs for Opera
+[IR-1013] - Error message doesn't fit the screen
+[IR-1227] - Implement precise version of analization algorithm for Opera's properties
+[IR-1189] - We don't have an ability to select packs in the installer of assembly for Windows 8
+
+Version 1.0.32-1443	(2014-10-02 19:45:07.777726)
+
+[IR-846] - Revise software utility to make pattern
+[IR-1213] - Modify Review Changes IR-963 to export in HTML with OLD columns
+[IR-1189] - We don't have an ability to select packs in the installer of assembly for Windows 8
+[IR-1165] - Mismatch between recommendation and report file for Cebu hotel
+[IR-1172] - GUI doesn't match what has already been pushed - Red Planet (Cebu example)
+[IR-1123] - Scheduler needs to send email after pushing with the implemented changes
+
+Version 1.0.32-1435	(2014-09-30 20:03:38.502185)
+
+[IR-1190] - create assembly for Comfort Inn Hobbs 
+[IR-1199] - create assembly for Quality Inn and Suites Lodi
+[IR-963] - Modify Review changes report
+[IR-1077] - Add data to the Pickup block in Total column
+[IR-1144] - Average last day pickup report modifications
+[IR-1205] - Start new sprint
+
+Version 1.0.32-1430	(2014-09-29 20:43:06.585100)
+
+[IR-1205] - Start new sprint
+[IR-1164] - Start new sprint when version passes testing
+[IR-1195] - New release 1.0.32-1420
+[IR-1032] - create assembly for Hotel Lakeview Signature Calgary Airport (Roomkey)
+[IR-1094] - Create assembly for Metropolis Resort  (roomkey)
+[IR-1147] - Build Assembly for Hotel 77 Hilton Lodz
+[IR-1206] - Change the code so the program reads only first line - Hilton Lodz
+[IR-961] - Next 8 properties for RoomKey
+[IR-919] - create assembly for Hotel 68- Azimut Tuslkaya hotel  - Opera
+[IR-776] - Integration with Roomkey PMS
+[IR-1144] - Average last day pickup report modifications
+[IR-963] - Modify Review changes report
+[IR-1202] - create assembly for Quality Inn & Suites of the Sun Cities
+
+Version 1.0.32-1426	(2014-09-26 19:25:09.335968)
+
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1191] - create assembly for Comfort Inn and Suites Artesia
+[IR-1198] - org.joda.time.IllegalFieldValueException for ComfortInnSuitesArtesia
+[IR-1199] - create assembly for Quality Inn and Suites Lodi
+[IR-1200] - create compset for Quality Inn and Suites Lodi
+[IR-819] - Assembly creation procedure
+[IR-1157] - Bug in IR-489 implementation
+[IR-1197] - create compset module (revcaster) for Comfort Suites Hobbs
+
+Version 1.0.32-1420	(2014-09-24 21:11:35.134339)
+
+[IR-1143] - Enhance scheduler menu and modes
+[IR-853] - Group rooms in Dynamics Summary graph
+[IR-1139] - create compset module (revcaster) for Sleep Inn and Suites hotel
+[IR-1159] - Verify LakeView group base rate information
+[IR-1147] - Build Assembly for Hotel 77 Hilton Lodz
+[IR-1115] - test pushing part for Auto Mode Roomkey PMS, create Test hotel Roomkey assembly
+[IR-1183] - Create compset module for Comfort Inn & Suites Artesia
+[IR-1110] - Sync GUI update processes with scheduler settings
+
+Version 1.0.32-1416	(2014-09-22 19:34:36.001170)
+
+[IR-1143] - Enhance scheduler menu and modes
+
+Version 1.0.32-1411	(2014-09-19 21:17:14.607176)
+
+[IR-853] - Group rooms in Dynamics Summary graph
+[IR-910] - modify table report
+[IR-1154] - modify Table Report according the Simplifing Stats block 
+[IR-1176] - Create compset module for Hilton Lodz
+[IR-1179] - Create compset module for Azimut Tulskaya
+
+Version 1.0.32-1406	(2014-09-18 20:49:12.507082)
+
+[IR-1001] - Dynamic Summary Graph doesn't show correct numbers 
+[IR-919] - create assembly for Hotel 68- Azimut Tuslkaya hotel  - Opera
+
+Version 1.0.32-1402	(2014-09-16 20:24:44.987929)
+
+[IR-1172] - GUI doesn't match what has already been pushed - Red Planet (Cebu example)
+[IR-1171] - Jai Can't install latest version of Naha shell
+[IR-1147] - Build Assembly for Hotel 77 Hilton Lodz
+[IR-1168] - New release 1.0.32-1397
+[IR-919] - create assembly for Hotel 68- Azimut Tuslkaya hotel  - Opera
+[IR-1167] - Describe the procedure (or give a link to corresponding ticket in JIRA) of modifing the way of parsing ratecodedetail report for AzimutTulskaya
+
+Version 1.0.32-1396	(2014-09-12 19:39:26.626916)
+
+[IR-1159] - Verify LakeView group base rate information
+[IR-975] - Create Patong hotel (RoomKey)
+[IR-972] - Create Naha Hotel (RoomKey PMS)
+[IR-1163] - Loading time issue with Comfort Inn Bloomington
+[IR-230] - Automate pattern tuning
+[IR-1161] - New release 1.0.32-1392
+[IR-1162] - New release 1.0.32-1395
+[IR-1157] - Bug in IR-489 implementation
+
+Version 1.0.32-1390	(2014-09-11 18:36:23.426707)
+
+[IR-881] - Modify questionarie form on i-rates.com website to satify assembly creation procedure
+[IR-1143] - Enhance scheduler menu and modes
+[IR-1160] - RoomKey push  corrrection from "time - dates - rates" to "date - rates"
+
+Version 1.0.32-1386	(2014-09-10 19:48:54.480746)
+
+[IR-825] - Review and match all data mapping and formula documents
+[IR-1120] - modify the way of inputting default depart day in group module
+[IR-1108] - past and future data display discrepancy for roomkey PMS
+[IR-489] - create a new parameter for compset average - multiplier
+[IR-1142] - New release 1.0.32-1370
+[IR-1149] - New release 1.0.32-1377
+[IR-1138] - create assembly for Sleep Inn and Suites hotel (Choice)
+
+Version 1.0.32-1381	(2014-09-05 19:52:11.986483)
+
+[IR-1131] - Shift Last year stats data by 1 day to match days of the week with Stats block
+[IR-954] - create assembly for Hotel 72 - Rodeway Inn Casino Center
+
+Version 1.0.32-1377	(2014-09-04 19:34:39.877336)
+
+[IR-819] - Assembly creation procedure
+[IR-1146] -  procedure to create compset module for the property
+[IR-1148] - iRates Unable to read date format
+[IR-1131] - Shift Last year stats data by 1 day to match days of the week with Stats block
+[IR-1123] - Scheduler needs to send email after pushing with the implemented changes
+[IR-1139] - create compset module (revcaster) for Sleep Inn and Suites hotel
+[IR-728] - Revenue Potential reporting/dashboard
+[IR-1145] - Font size management in iRates GUI
+[IR-1134] - Start new sprint when version passes testing
+[IR-1141] - Make review for iRates Integration framework
+[IR-965] - Simplify Stats block
+[IR-1140] - New release 1.0.32-1368
+[IR-1068] - Calendar view - font is incorrect
+[IR-1014] - Create assebmply for North Forty Resort (RoomKey)
+
+Version 1.0.32-1368	(2014-09-01 19:43:16.942458)
+
+[IR-1125] - Unexpected end of input for multiple shells at auto hourly scheduler mode
+[IR-1133] - New release 1.0.32-1358
+[IR-1126] - New release 1.0.32-1348
+[IR-1118] - New release 1.0.32-1342
+[IR-1107] - Integrity constraint violation exception for ClaridgeHotel
+[IR-614] - Plan for Reactive algorithm for low quality data and effortless version of iRates
+[IR-1009] - Prices size correction for table view
+
+Version 1.0.32-1363	(2014-08-29 18:00:00.000000)
+
+[IR-1068] - Calendar view - font is incorrect
+[IR-1130] - discrepancy in scheduler recommendations report and actual recommendations in GUI
+
+Version 1.0.32-1358	(2014-08-28 18:00:00.000000)
+
+[IR-1068] - Calendar view - font is incorrect
+[IR-1124] - scheduler, modify pushing part For Auto Mode Choice property
+[IR-1129] - exe Installer is not setting a scheduler in Windows 8 task scheduler menu
+[IR-1130] - discrepancy in scheduler recommendations report and actual recommendations in GUI
+
+Version 1.0.32-1348	(2014-08-26 18:00:00.000000)
+
+[IR-1122] - grammatical error "Data are fresh"
+
+Version 1.0.32-1342	(2014-08-22 18:00:00.000000)
+
+[IR-1068] - Calendar view - font is incorrect
+
+Version 1.0.32-1338	(2014-08-21 18:00:00.000000)
+
+[IR-1068] - Calendar view - font is incorrect
+[IR-1112] - Error appears for hotel which doesn't have "automode.enable = yes" in irates properties file when we use new exe 1333
+
+Version 1.0.32-1333	(2014-08-20 18:00:00.000000)
+
+[IR-999] - Create menu to manage scheduler parameters
+[IR-1110] - Sync GUI update processes with scheduler settings
+
+Version 1.0.32-1321	(2014-08-13 19:01:27.327702)
+
+[IR-998] - Create Scheduling pushing prices to PMS
+[IR-999] - Create menu to manage scheduler parameters
+[IR-881] - Modify questionarie form on i-rates.com website to satify assembly creation procedure
+[IR-1097] - Create new menu item for sending scheduled price recommendations
+[IR-1098] - New release 1.0.32-1316
+
+Version 1.0.32-1316	(2014-08-11 19:53:09.081402)
+
+[IR-1058] - Start new sprint when version passes testing
+[IR-1095] - The program doesn't dosplay prices from the reports
+[IR-1088] - The program can't load prices from the reports
+[IR-1084] - New release 1.0.32-1289
+[IR-1076] - New release 1.0.32-1278
+[IR-1096] - New release 1.0.32-1312
+[IR-776] - Integration with Roomkey PMS
+
+Version 1.0.32-1312	(2014-08-08 20:34:38.361225)
+
+[IR-983] - Create Angeles Hotel
+[IR-1051] - create revcaster module for Tune Hotel Angeles
+[IR-1092] - create assembly for Tune hotel Aseana (roomkey)
+[IR-1093] - create compset module (revcaster) for Tune Hotel Aseana (roomkey)
+[IR-1091] - incomplete assembly installers for roomkey
+
+Version 1.0.32-1305	(2014-08-06 18:58:45.741688)
+
+[IR-1085] - Json error message when starting Lakeview assemblies with 1289 exe
+[IR-1036] - create revcaster module for Tune Hotel Palembang
+[IR-1023] - create assembly for Solo Hotel (Roomkey)
+[IR-1040] - create revcaster module for Tune Hotel Solo 
+[IR-1024] - create assembly for Surabaya Hotel (Roomkey) 
+[IR-1035] - create revcaster module for Tune Hotel Surabaya
+[IR-1032] - create assembly for Hotel Lakeview Signature Calgary Airport (Roomkey)
+[IR-1019] - create assembly for Davao City Hotel (Roomkey)
+[IR-1041] - create revcaster module for Tune Hotel - Davao City
+[IR-1018] - create assembly for Cagayan Hotel (Roomkey)
+[IR-1038] - create revcaster module for Tune Hotel Cagayan 
+[IR-1017] - create assembly for Bekasi Hotel (Roomkey)
+[IR-1039] - create revcaster module for Tune Hotel Bekasi 
+[IR-1087] - Create tool to remove old issues from database
+[IR-1031] -  create assembly for Hotel Lakeview Whitecourt  (Roomkey)
+[IR-1014] - Create assebmply for North Forty Resort (RoomKey)
+[IR-1083] - create compset module North Forty Resort
+[IR-1082] - create compset module for Lakeview Signature Inn Calgary Airport
+[IR-1080] - create compset module (revcaster) for Lakeview Inn & Suites Whitecourt
+
+Version 1.0.32-1289	(2014-08-04 20:26:06.188755)
+
+[IR-1064] - New release 1.0.32-1262
+[IR-1052] - New release 1.0.32-1254
+[IR-1072] - New release 1.0.32-1267
+[IR-1079] - create compset module (revcaster) for The Grand Winnipeg Airport Hotel by Lakeview
+[IR-1081] - create compset module for Lakeview Inn & Suites Brandon
+[IR-1073] - New release 1.0.32-1272
+[IR-1055] - create assembly for Tune Hotel Ermita (Roomkey)
+[IR-972] - Create Naha Hotel (RoomKey PMS)
+[IR-974] - Create Pattaya hotel (RoomKey)
+[IR-975] - Create Patong hotel (RoomKey)
+
+Version 1.0.32-1267	(2014-07-30 20:09:27.462611)
+
+[IR-1062] - roomkey assemblies would not load data with 1254 exe 
+[IR-1067] - Actions > Reports Does not open when clicked
+[IR-800] - Report checking and re-downloading for Choice
+[IR-1057] - Rename Report to Reports in Menu-Actions
+
+Version 1.0.32-1262	(2014-07-29 18:51:41.140172)
+
+[IR-1062] - roomkey assemblies would not load data with 1254 exe 
+[IR-1059] - Red Planet Roomkey Hotels not Loading
+[IR-1016] - New release 1.0.32-1245
+[IR-1057] - Rename Report to Reports in Menu-Actions
+[IR-896] - Build Hotel 65 - The Gresham Dublin Hotel
+
+Version 1.0.32-1042	(2014-07-22 10:50:32.322184)
+
+[IR-1025] - Min/Max Settings under Settings menu don't function with 1245 exe
+
+Version 1.0.32-1245	(2014-07-18 13:07:37.283763)
+
+[IR-985] - Create tool to generate JSON for RoomKey PMS
+[IR-919] - create assembly for Hotel 68- Azimut Tuslkaya hotel  - Opera
+[IR-1012] - "Illegal instant due to timezone offset transition ..." in GreshamDublin
+[IR-1010] - Start new sprint when version passes testing
+[IR-992] - Implement saving of operational data from RoomKey PMS in input_reports folder
+[IR-996] - New release 1.0.32-1226
+
+Version 1.0.32-1238	(2014-07-11 19:43:54.878452)
+
+[IR-1003] - Quick verification of zero room differential for all RoomKey (RedPlanet) assemblies, except hotel in Japan
+[IR-1005] - New release 1.0.32-1231
+[IR-1006] - Maifetcher for roomkey properties
+[IR-969] - New release 1.0.32-1199
+[IR-937] - Ramada Carlsbad assembly and installer
+[IR-896] - Build Hotel 65 - The Gresham Dublin Hotel
+[IR-953] - no rack price displayed and other missing data  for certain days for Gresham hotel
+
+Version 1.0.32-1230	(2014-07-09 15:21:55.808656)
+
+[IR-776] - Integration with Roomkey PMS
+[IR-936] - Correct Tune Hotel Assembly
+[IR-948] - Create Assembly for Hotel 71 - Atchison Americinn
+[IR-982] - Build Hotel 73 - Concord's Colonial Inn
+
+Version 1.0.32-1226	(2014-07-04 21:14:33.923856)
+
+[IR-990] - New release 1.0.32-1217
+[IR-970] - Start new sprint when version passes testing
+[IR-991] - Fit current price/recommendation
+[IR-995] - Average Last Day Pickup report wont send as email or save as excel with 1217 exe
+[IR-994] - Results not showing in Group Pricing Table with 1206, 1217 exe
+[IR-979] - New release 1.0.32-1206
+[IR-966] - New release 1.0.32-1193
+[IR-959] - New release 1.0.32-1173
+
+Version 1.0.32-1217	(2014-07-01 18:46:32.699993)
+
+[IR-987] - Actions-Report not functioning for Concord's Hotel with 1206 exe
+[IR-988] - Actions-Report not functioning for all roomkey assemblies with 1206 exe
+[IR-982] - Build Hotel 73 - Concord's Colonial Inn
+[IR-881] - Modify questionarie form on i-rates.com website to satify assembly creation procedure
+[IR-980] - Please create new compset module for Clarion Inn and Suites hotel 
+[IR-981] - create new compset module for Quality Inn and suites Coliseum
+[IR-986] - create compset( revcaster) for Concord's Inn hotel
+[IR-968] - PMS Integration document review
+[IR-936] - Correct Tune Hotel Assembly
+[IR-962] - New release 1.0.32-1182
+
+Version 1.0.32-1206	(2014-06-24 17:01:27.870024)
+
+[IR-903] - Create a filter in Jira to show the list of tickets that were completed after 829 exe
+[IR-958] - Calendar view has bold letters instead of regular
+
+Version 1.0.32-1199	(2014-06-23 17:49:44.172024)
+
+[IR-889] - change wording on error message when missing one of the reports 
+[IR-907] - Average last day pickup report
+[IR-936] - Correct Tune Hotel Assembly
+[IR-893] - link to Revcaster account in the program
+
+Version 1.0.32-1193	(2014-06-19 21:17:17.009638)
+
+[IR-936] - Correct Tune Hotel Assembly
+[IR-893] - link to Revcaster account in the program
+
+Version 1.0.32-1179	(2014-06-18 15:54:35.416298)
+
+[IR-893] - link to Revcaster account in the program
+[IR-933] - Rename pickup dynamics and rating
+[IR-960] - Review Changes Dialog no longer opens
+[IR-958] - Calendar view has bold letters instead of regular
+
+Version 1.0.32-1173	(2014-06-16 19:52:00.159561)
+
+[IR-946] - Start next sprint when version passes testing
+[IR-945] - New release 1.0.32-1159
+[IR-942] - New release 1.0.32-1156
+[IR-885] - Add 2014 to Copyright notice in About section
+[IR-928] - Rename "Update compset" message
+[IR-936] - Correct Tune Hotel Assembly
+[IR-951] - New release 1.0.32-1168
+[IR-896] - Build Hotel 65 - The Gresham Dublin Hotel
+[IR-895] - Scheduler for daily report downloading for Wynguest 
+[IR-953] - no rack price displayed and other missing data  for certain days for Gresham hotel 
+[IR-399] - Compset block does not open (no data) in version 1.0.12-98
+[IR-357] - Table view: when selecting a day - highlight the whole column
+[IR-453] - Pushing to Choice with cancel options, price is not on the grid message
+[IR-954] - create assembly for Hotel 72 - Rodeway Inn Casino Center
+[IR-957] - create compset module (revcaster) for Rodeway Inn (Hotel 72)
+[IR-955] - cannot open assembly test 1 
+[IR-949] - create compset module (revcaster) for AmericInn Atchinson 
+[IR-950] - Please review new testing table and test new exe according to it
+
+Version 1.0.32-1168	(2014-06-11 20:02:32.662672)
+
+[IR-914] - Country dependent date format
+[IR-915] - Country dependent number format
+[IR-916] - Country dependent UI language
+
+Version 1.0.32-1159	(2014-06-10 16:23:53.772968)
+
+[IR-941] - No prices and recommendations fot Tune Hotel Makati
+[IR-936] - Correct Tune Hotel Assembly
+[IR-930] - Start new sprint when version passes testing
+[IR-905] - Error in importing data from Rate Code Detail report for GreshamDublin
+[IR-896] - Build Hotel 65 - The Gresham Dublin Hotel
+[IR-935] - "cannot add message to the snapshot" error when loading data for AmericInn Osceola hotel
+[IR-895] - Scheduler for daily report downloading for Wynguest
+
+Version 1.0.32-1156	(2014-06-06 20:29:19.643932)
+
+[IR-940] - Exception in money parsing in TuneHotelPasarBaru
+[IR-935] - "cannot add message to the snapshot" error when loading data for AmericInn Osceola hotel
+[IR-939] - Test latest RoomKey version as full release version (with all existing PMS)
+[IR-937] - Ramada Carlsbad assembly and installer
+[IR-928] - Rename "Update compset" message
+[IR-909] - create assembly for Hotel 69  Comfort Suites Fort Worth 
+[IR-926] - Failed to import data from Room Type Forecast for AzimutTulskaya
+[IR-259] - Avoid downloading reports into input_reports folder if they already exist (for new databases)
+[IR-929] - New release 1.0.32-1147
+[IR-927] - New release 1.0.32-1141
+[IR-921] - New release 1.0.32-1133
+[IR-885] - Add 2014 to Copyright notice in About section
+[IR-895] - Scheduler for daily report downloading for Wynguest 
+[IR-868] - Wynguest - minimize the startup time
+
+Version 1.0.32-1147	(2014-05-27 18:49:58.678282)
+
+[IR-846] - Revise software utility to make pattern
+[IR-905] - Error in importing data from Rate Code Detail report for GreshamDublin
+[IR-904] - Error in downloading Opera's reports for GreshamDublin
+[IR-894] - Wynguest: develop fetcher integration with regular win zip to minimize startup time
+[IR-901] - New release 1.0.32-1124
+[IR-920] - testhotel assembly
+
+Version 1.0.32-1141	(2014-05-23 17:58:47.872162)
+
+[IR-894] - Wynguest: develop fetcher integration with regular win zip to minimize startup time
+[IR-923] - create assembly for Hotel 70 - Comfort Inn and Suites
+[IR-925] - create compset module(revcaster) for  Comfort Inn and Suites
+[IR-922] - New release 1.0.32-1137
+
+Version 1.0.32-1137	(2014-05-19 19:13:00.253406)
+
+[IR-906] - Country dependent currency formats in the program
+[IR-920] - testhotel assembly
+
+Version 1.0.32-1133	(2014-05-16 20:16:31.246246)
+
+[IR-909] - create assembly for Hotel 69  Comfort Suites Fort Worth 
+[IR-920] - testhotel assembly
+[IR-890] - create assembly for Comfort Suites Lawrenceville
+[IR-917] - create compset module (revcaster) for Comfort Inn Fort Worth
+[IR-906] - Country dependent currency formats in the program
+[IR-868] - Wynguest - minimize the startup time
+[IR-894] - Wynguest: develop fetcher integration with regular win zip to minimize startup time
+[IR-908] - Start new sprint when version passes testing
+[IR-859] - Create web-service with JSON as a data format
+[IR-899] - "Null" pushing error for the Comfort Suites Lawrenceville with 1121 exe
+[IR-897] - create compset module (revcaster) for The Gresham Hotel Dublin
+
+Version 1.0.32-1124	(2014-05-07 18:58:35.346438)
+
+[IR-898] - bug with "price is not on the grid" error message -Choice 1121 exe, 1075 exe
+[IR-899] - "Null" pushing error for the Comfort Suites Lawrenceville with 1121 exe
+[IR-894] - Wynguest: develop fetcher integration with regular win zip to minimize startup time
+[IR-892] - modify  default irates.properties file with new setting for hourly Opera reports
+[IR-890] - create assembly for Comfort Suites Lawrenceville
+[IR-891] - create compset module (revcaster) for Comfort Suites Lawrenceville
+[IR-883] - Review attached Wynguest excel reports for potential integration
+[IR-888] - New release 1.0.32-1121
+
+Version 1.0.32-1118	(2014-04-30 19:50:12.284185)
+
+[IR-866] - Update messages that cause to start the program without a refresh
+[IR-887] - Map irates1 and irates2 RoomNight entities
+[IR-875] - New release 1.0.30-1103
+[IR-882] - New release 1.0.30-1110
+[IR-873] - Start new sprint when exe passes testing
+[IR-876] - Review Rubicon / TravelClick Rate shopping reports for potential integration
+[IR-886] - Develop JSON schema file which describes JSON objects containing data to build property's assembly
+
+Version 1.0.30-1108	(2014-04-23 22:09:46.759751)
+
+[IR-795] - Correct assembly for Wyndham Garden Phoenix
+[IR-868] - Wynguest - minimize the startup time
+[IR-878] - Download and check every message regardless of the subject
+[IR-799] - Modify code for exe to process reports for Wyndham brand properties
+[IR-874] - New release 1.0.30-1099
+[IR-830] - When set to hourly Opera reports, program doesn't read raterest report
+
+Version 1.0.30-1103	(2014-04-21 16:47:09.256179)
+
+[IR-799] - Modify code for exe to process reports for Wyndham brand properties
+
+Version 1.0.30-1099	(2014-04-18 23:24:19.588941)
+
+[IR-784] - Integrate with Wynguest
+
+Version 1.0.30-1095	(2014-04-18 13:02:42.187636)
+
+[IR-865] - For some dates RACK from Choice's reports doesn't belong tp fetched price mesh
+[IR-728] - Revenue Potential reporting/dashboard
+[IR-811] - adjust Update feature so it saves user input 
+[IR-869] - NullPointerException at AbstractOperaReportsSnapshot.java:65 for RamadaCarlsbad
+[IR-840] - Create assembly for  Hotel 61- American Inn  Osceola
+
+Version 1.0.30-1086	(2014-04-16 20:23:38.151204)
+
+[IR-864] - Pushing not working for Events on Opelika and Auburn hotels
+[IR-799] - Modify code for exe to process reports for Wyndham brand properties
+[IR-784] - Integrate with Wynguest
+[IR-863] - Ramada Carlsbad
+
+Version 1.0.30-1079	(2014-04-14 13:23:31.810559)
+
+[IR-784] - Integrate with Wynguest
+[IR-818] - Create 2 Wynguest assemblies from the reports that we are getting via email
+[IR-856] - New release 1.0.30-1075
+[IR-858] - Describe Javascript objects in terms of JSON
+[IR-852] - New release 1.0.30-1064
+
+Version 1.0.30-1075	(2014-04-04 20:39:35.132646)
+
+[IR-822] - One error message for all missing reports (Opera)
+[IR-855] - New release 1.0.30-1069
+
+Version 1.0.30-1067	(2014-04-02 21:06:22.485082)
+
+[IR-683] - Load all demand IDs for all years for pushing to Choice
+[IR-849] - pushing failed with an error "empty sting" with 1045 exe
+
+Version 1.0.30-1063	(2014-04-01 17:54:33.330776)
+
+[IR-851] - New release 1.0.30-1060
+[IR-683] - Load all demand IDs for all years for pushing to Choice
+[IR-849] - pushing failed with an error "empty sting" with 1045 exe
+
+Version 1.0.30-1060	(2014-03-31 17:33:01.217739)
+
+[IR-850] - New release 1.0.30-1053
+[IR-845] - New release 1.0.29-1045
+[IR-823] - Modify message "There are no any fresh reports" 
+[IR-683] - Load all demand IDs for all years for pushing to Choice
+[IR-849] - pushing failed with an error "empty sting" with 1045 exe
+[IR-799] - Modify code for exe to process reports for Wyndham brand properties
+[IR-840] - Create assembly for  Hotel 61- American Inn  Osceola
+
+Version 1.0.30-1053	(2014-03-27 19:53:14.027792)
+
+[IR-849] - pushing failed with an error "empty sting" with 1045 exe
+[IR-556] - Implement auto-saving of user decision
+[IR-557] - Implement the ability to undo changes
+[IR-847] - Wynguest integration: make the program read reports with non-standard report names
+[IR-784] - Integrate with Wynguest
+[IR-734] - price suggestions for the event dates in Choice are limited by price mesh fetching feature
+[IR-838] - create assembly for Hotel 64 - Quality Inn Brooklyn 
+[IR-844] - create compset module (revcaster) for Quality Inn Brooklyn
+[IR-842] - Remove Release notes from installer
+
+Version 1.0.29-1038	(2014-03-25 20:30:19.825138)
+
+[IR-841] - Start new sprint when new version passes testing
+[IR-821] - New release 1.0.27-985
+[IR-842] - Remove Release notes from installer 
+[IR-538] - Browser-like integration with a web-engine
+[IR-837] - New release 1.0.29-1033
+[IR-683] - Load all demand IDs for all years for pushing to Choice
+[IR-834] - New release 1.0.29-1028
+[IR-832] - create assembly for Hotel 63 - Comfort Inn Opelika
+[IR-831] - create assembly for Hotel 62 - Econo Lodge Auburn- Choice
+[IR-840] - Create Hotel 61 Oceola Assembly
+[IR-663] - Create windows cross-compilation on Build Server
+[IR-820] - program is not downloading data if one of the 5 reports is missing (Opera)
+[IR-818] - Create 2 Wynguest assemblies from the reports that we are getting via email
+[IR-839] - Exception in price mesh fetching occurs
+
+Version 1.0.29-1033	(2014-03-21 21:27:47.663106)
+
+[IR-831] - create assembly for Hotel 62 - Econo Lodge Auburn- Choice
+[IR-836] - Create compset module (revcaster) for Econo Lodge Auburn
+[IR-835] - Create compset module (revcaster) Comfort Inn Opelika
+[IR-832] - create assembly for Hotel 63 - Comfort Inn Opelika
+[IR-439] - Choice version: when sold out, Suggested Rack should match the current rack
+
+Version 1.0.29-1028	(2014-03-20 20:23:41.511404)
+
+[IR-831] - create assembly for Hotel 62 - Econo Lodge Auburn- Choice
+[IR-833] - Bad price mesh fetched from Choice
+[IR-832] - create assembly for Hotel 63 - Comfort Inn Opelika
+[IR-686] - Build Assembly for Hotel 50: Days Inn Washington D.C.
+[IR-820] - program is not downloading data if one of the 5 reports is missing (Opera)
+
+Version 1.0.29-1019	(2014-03-18 20:53:26.057196)
+
+[IR-827] - The latest version of iRates (1013) fails to parse ressummary for InnAtStMarys
+[IR-759] - Create GUI Potential reporting/dashboard
+
+Version 1.0.29-1016	(2014-03-14 20:56:53.404876)
+
+[IR-768] - Modify group module
+[IR-820] - program is not downloading data if one of the 5 reports is missing (Opera), NaN fixed
+
+Version 1.0.29-1002	(2014-03-13 20:08:04.733981)
+
+[IR-768] - Modify group module
+[IR-556] - Implement auto-saving of user decision
+[IR-493] - Pressing the close button, and then cancel closes the program anyway
+[IR-813] - modify Min/Max settings module from settings menu
+[IR-816] - modify Dynamic summary graph
+[IR-614] - Plan for Reactive algorithm for low quality data and effortless version of iRates
+[IR-728] - Revenue Potential reporting/dashboard
+[IR-812] - Modify GUI for RPD
+[IR-758] - Program formulas to calculate BR, AR and RP and verify them.
+
+Version 1.0.27-985	(2014-03-07 18:09:16.274912)
+
+[IR-684] - add a task to assembly installer to download all Choice reports daily 
+[IR-732] - create assembly for Quality Inn and Suites Phoenix - Hotel 
+[IR-820] - program is not downloading data if one of the 5 reports is missing (Opera)
+[IR-815] - update testing table for 975 exe
+[IR-752] - Create hotel assembly according manual
+[IR-759] - Create GUI Potential reporting/dashboard
+[IR-784] - Integrate with Wynguest
+[IR-645] - Place Price Mesh in scheduling
+
+Version 1.0.27-975	(2014-02-28 21:06:40.531635)
+
+[IR-758] - Program formulas to calculate BR, AR and RP and verify them.
+[IR-320] - Sensitivity of algorithm for 90 days vs the rest of the year ahead.
+[IR-796] - pushing feature doesn't work correct on Comfort Gaslamp Hotel with 915 exe
+[IR-806] - Wrong message when program can't connect to the internet
+[IR-645] - Place Price Mesh in scheduling
+[IR-226] - Pushing data to Choice PMS
+[IR-800] - Report checking and re-downloading for Choice
+[IR-805] - skip and delete button doesn't work for hotel's assembly
+[IR-810] - update testing table for 966 exe
+
+Version 1.0.27-966	(2014-02-25 21:00:30.881942)
+
+[IR-804] - Table resolution issue
+[IR-320] - Sensitivity of algorithm for 90 days vs the rest of the year ahead.
+[IR-732] - create assembly for Quality Inn and Suites Phoenix - Hotel
+
+Version 1.0.27-963	(2014-02-24 20:55:43.364186)
+
+[IR-804] - Table resolution issue
+
+Version 1.0.27-958	(2014-02-21 18:10:26.677742)
+
+[IR-664] - Create MacOs cross-compilation on Build Server
+[IR-320] - Sensitivity of algorithm for 90 days vs the rest of the year ahead.
+[IR-753] - Create hotel assembly according manual
+[IR-734] - price suggestions for the event dates in Choice are limited by price mesh fetching feature
+[IR-801] - New release 1.0.26-950
+[IR-802] - update testing table
+
+Version 1.0.26-950	(2014-02-20 20:14:40.943677)
+
+[IR-768] - Modify group module
+[IR-756] - Daily Recommendation Report not working Comfort Inn Harbor Hotel
+[IR-793] - Comfort Inn Manassas Won't Load on Sams Computer
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-786] - please create newest installer for Test hotel database
+[IR-781] - "Export" button in Review Changes window needs to export in excel in addition to html
+[IR-790] - New release 1.0.26-915
+[IR-791] - update testing table for 915 exe
+
+Version 1.0.26-915	(2014-02-10 18:25:57.345145)
+
+[IR-782] - Graphs don't display for days with no rating
+[IR-771] - [statistics-compare] report should have a header
+[IR-773] - recalculate button erase changes made by the user to restrictions block, and rack price 
+[IR-786] - please create newest installer for Test hotel database
+[IR-785] - update parameters in default irates.properties file and use for new assemblies
+
+Version 1.0.26-908	(2014-02-06 20:42:53.383159)
+
+[IR-665] - Create platform dependent calls in java
+[IR-662] - Create build system for Qt on Build Server
+[IR-230] - Automate pattern tuning
+[IR-335] - Analyze Bartell databases
+[IR-512] - Create installation with scheduling for Mac OS X
+[IR-778] - Add new property to irates.properties file
+[IR-716] - Review OXI protocol in Opera for 2-way integration purposes (push part)
+
+Version 1.0.25-890	(2014-02-03 19:44:12.104153)
+
+[IR-728] - Revenue Potential reporting/dashboard
+[IR-759] - Create GUI Potential reporting/dashboard
+[IR-765] - Don't suggest rate changes if rev potential is less than $x
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-773] - recalculate button erase changes made by the user to restrictions block, and rack price
+
+Version 1.0.25-882	(2014-01-31 20:26:13.667039)
+
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-772] - Create another email address on i-rates.com domain
+[IR-726] - Alert in Group Displacement module when # of people is more than available
+[IR-750] - Create assembly for Hotel 56 - Holiday Inn Express Bloomington
+
+Version 1.0.25-879	(2014-01-29 20:26:47.742146)
+
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-729] - Alert for Group Displacement module about number of group rooms
+[IR-767] - update testing table for 875 exe
+
+Version 1.0.25-875	(2014-01-28 21:53:40.385644)
+
+[IR-763] - Monthly Usage Statistics Report not sending to usage@i-rates if no user.email defined
+[IR-727] - Rename fields in Group displacement module
+[IR-757] - Change date format to mm/dd/yyyy in attachment when emailing Review Changes report
+
+Version 1.0.24-854	(2014-01-22 19:38:17.963092)
+
+[IR-618] - R-trader prototype research
+[IR-758] - Program formulas to calculate BR, AR and RP and verify them.
+[IR-614] - Plan for Reactive algorithm for low quality data and effortless version of iRates
+[IR-725] - Departure date in the Group Displacement module needs to be corrected
+[IR-755] - restrictions are not showing correctly for RAMADA GASLAMP
+[IR-645] - Place Price Mesh in scheduling
+[IR-751] - create compset module (revcaster) for Holiday Inn Express Bloomington
+[IR-512] - Create installation with scheduling for Mac OS X
+[IR-747] - New release 1.0.24-838
+[IR-746] - Build Hotel 60 - Wyndham Garden Phoenix
+[IR-749] - please create compset module (revcaster) for Wyndham Garden Phoenix
+[IR-712] - create assembly for Hotel 53 Quality Inn Fredericksburg
+[IR-748] - update testing table for the 838 exe
+[IR-498] - Calculate average booking window for properties using the historic reservation data
+
+Version 1.0.24-835	(2014-01-08 19:29:13.113525)
+
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-683] - Load all demand IDs for all years for pushing to Choice
+[IR-715] - Formalize IR-689
+[IR-688] - WynGuest integration
+[IR-687] - WynGuest reports for historic data and daily operating data - research the structure
+[IR-89] - EmailMeForm servise to collect information about new hotel for a new assembly
+[IR-741] - Build Hotel 58 - Holiday Inn Express Raton
+[IR-737] - Build Hotel 55 - Holiday Inn Bloomington
+[IR-643] - Build Assembly for Hotel 45 St. Mary's Hotel
+[IR-724] - New release 1.0.24-792
+[IR-434] - Change scale for "number of customers" on the "Expected customer flow" graph
+[IR-742] - New release 1.0.24-826
+[IR-738] - New release 1.0.24-817
+[IR-736] - New release 1.0.24-813
+[IR-731] - New release 1.0.24-807
+[IR-733] - please update testing table for 807 exe
+[IR-523] - Need to be able to email review changes report
+[IR-745] - New release 1.0.24-829
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-734] - price suggestions for the event dates in Choice are limited by price mesh fetching feature
+
+Version 1.0.24-829	(2013-12-24 20:17:15.425857)
+
+[IR-150] - Develop "Group displacement analysis" module
+[IR-612] - Min/Max Racks don't affect  the suggested rack
+[IR-744] - create compset module(revcaster) for Hotel 55 Holiday Inn Bloomington
+[IR-743] - create compset module (revcaster) for hotel 58 Holiday Inn Raton
+
+Version 1.0.24-824	(2013-12-23 21:07:40.707887)
+
+[IR-735] - create assembly for Hotel 59 Comfort Inn at the Harbor
+[IR-732] - create assembly for Quality Inn and Suites Phoenix - Hotel 
+[IR-434] - Change scale for "number of customers" on the "Expected customer flow" graph
+[IR-150] - Develop "Group displacement analysis" module
+[IR-740] - create compset module (revcaster) for Quality Inn and suites Phoenix
+[IR-739] - create compset module (revcaster) for Comfort Inn At the Harbor
+
+Version 1.0.24-817	(2013-12-20 18:09:51.057192)
+
+[IR-730] - "Days missing in report": should be only one alert for all missing dates
+
+Version 1.0.24-813	(2013-12-19 18:01:24.003811)
+
+[IR-734] - price suggestions for the event dates in Choice are limited by price mesh fetching feature
+
+Version 1.0.24-806	(2013-12-17 19:12:04.514532)
+
+[IR-439] - Choice version: when sold out, Suggested Rack should match the current rack
+[IR-723] - scenario failed error with 787 exe for OPERa properties
+[IR-684] - add a task to assembly installer to download all Choice reports daily 
+[IR-719] - Test CoiceReportDownloader and scheduler task
+[IR-718] - Add Windows Scheduler task for ChoiceReportDownloader to iRates installer
+[IR-717] - Rewrite current CoiceDownloader using common iRates Choice integration library
+[IR-150] - Develop "Group displacement analysis" module
+[IR-721] - create another section in the iRates usage-statistics report
+[IR-692] - Create a new property that will turn price mesh fetching on or off
+[IR-712] - create assembly for Hotel 53 Quality Inn Fredericksburg
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-652] - create assembly for Hotel 46 - Quality Inn West Chase
+
+Version 1.0.24-792	(2013-12-09 20:20:05.958603)
+
+[IR-723] - scenario failed error with 787 exe for OPERa properties
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-722] - create compset module (revcaster) for Quality Inn Fredericksburg
+[IR-711] - New release 1.0.23-787
+[IR-713] - please test 787 exe
+[IR-707] - New release 1.0.23-779
+[IR-708] - Update testing table 
+[IR-660] - 1.0.20-684 Testing Results
+[IR-709] - Please test the 779 exe
+
+Version 1.0.23-783	(2013-12-03 20:12:40.049011)
+
+[IR-710] - Choice integration don't get weekends from Choice
+
+Version 1.0.23-779	(2013-12-02 18:55:27.046508)
+
+[IR-217] - Develop stay restrictions recommendation module
+[IR-690] - A problem with price meshes for QualityInnWestChase
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-693] - Create HG user for vadim
+[IR-516] - Automatically save user's decisions to Out folder after each session
+[IR-678] - Review Travelynx XML specification for data availability for iRates purposes
+[IR-686] - Build Assembly for Hotel 50: Days Inn Washington D.C.
+
+Version 1.0.23-757	(2013-11-25 20:24:00.093789)
+
+[IR-685] - Remove Beta graph from the program
+[IR-373] - iRates Table Data Report
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-523] - Need to be able to email review changes report
+[IR-691] - create compset module (revcaster) for Days Inn Washington hotel
+[IR-516] - Automatically save user's decisions to Out folder after each session
+
+Version 1.0.22-748	(2013-11-20 16:01:17.552101)
+
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-634] - Create one more database converter to push historic data from Choice PMS to iratesdb
+[IR-150] - Develop "Group displacement analysis" module
+[IR-373] - iRates Table Data Report
+
+Version 1.0.22-738	(2013-11-15 19:06:30.821806)
+
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-345] - Describe assembly creation process
+[IR-101] - Show most fresh data from every-hour Opera reports (lightweight solution)
+[IR-682] - daily email with price recommendation is not working for OPERA property
+[IR-319] - Daily email with price recommendations to the user
+[IR-655] - Recommendations for dates with confidence below analyzer.confThresh need to be taken from compset
+[IR-680] - Process limits in vendor API revcaster
+[IR-671] - Customize Compset Multiplier parameter for each hotel
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-505] - create assembly for Quality Inn Near Hampton Coliseum
+[IR-373] - iRates Table Data Report
+
+Version 1.0.22-727	(2013-11-07 17:21:04.462043)
+
+[IR-372] - End-of-month report
+[IR-506] - create an assembly for Clarion Inn & Suites by Hampton 
+[IR-656] - Choice: Failed to communicate with server for QualityInnWestChase
+[IR-666] - Create compset module (revcaster) for Comfort Inn Bloomington  
+[IR-651] - create assembly for the Hotel 47 - Comfort Inn Santa Cruz
+[IR-643] - Build Assembly for Hotel 45 St. Mary's Hotel
+
+Version 1.0.21-722	(2013-11-06 13:47:59.948037)
+
+[IR-675] - Mac version distribution
+[IR-672] - create new assembly for Hotel 49- Sleep Inn Quantico
+[IR-659] - create assembly for Hotel 48 - Comfort Inn Bloomington IN - Choice
+[IR-679] - report downloader stopped working for Choice properties
+
+Version 1.0.21-718	(2013-10-31 19:24:57.305709)
+
+[IR-676] - OccupancySnapshot is parsed in a wrong way
+[IR-637] - Build new hotels using following mailfetcher
+[IR-673] - Error while donloading reports in Sleep Inn Quantico
+[IR-674] - "Can't log in to Choice Central error" with  710 exe
+
+Version 1.0.21-710	(2013-10-30 13:04:26.620870)
+
+[IR-669] - The property's assembly doesn't start with iRates of version 680.
+[IR-667] - An error while parsing some of the hotel statistics reports for the property
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-670] - Letter for Sabre
+[IR-657] - create compset component (revcaster) for Comfort Inn Santa Gruz
+
+Version 1.0.21-705	(2013-10-28 21:47:03.056929)
+
+[IR-668] - Push to Choice doesn't work for the property (with iRates of version 699)
+[IR-319] - Daily email with price recommendations to the user
+[IR-661] - Write the instruction of how "Analyzer and reporter of usage statistics" works
+[IR-384] - Integrate with Revgenie
+[IR-666] - Create compset module (revcaster) for Comfort Inn Bloomington
+
+Version 1.0.20-697	(2013-10-22 20:04:50.776225)
+
+[IR-636] - 1.0.18-634 Testing Results. 
+[IR-651] - create assembly for the Hotel 47 - Comfort Inn Santa Cruz
+[IR-318] - Review Product Availability spec from HTNG (based on OTA standard)
+[IR-143] - Graphs need to be scaled differently
+[IR-434] - Change scale for "number of customers" on the "Expected customer flow" graph
+[IR-648] - Compset component: bring back the feature for report frequency
+[IR-649] - 1.0.19-656
+[IR-643] - Build Assembly for Hotel 45 St. Mary's Hotel
+[IR-384] - Integrate with Revgenie
+[IR-658] - Create compset module (revcaster) for Quality Inn West Chase
+[IR-316] - Create one more database converter to push the data from Opera-SQL file to iratesdb
+[IR-654] - Update irates.properties file: analyzer.confThresh = 0.3 as default
+[IR-653] - The program is unable to parse Rates report
+[IR-650] - Inn at ST Marys hotel is giving a compset error when starting iRates
+[IR-272] - Reporting that shows lost oportunities
+
+Version 1.0.20-677	(2013-10-11 15:59:39.793786)
+
+[IR-645] - Place Price Mesh in scheduling
+[IR-7] - Historical data in Table
+[IR-641] - Choice version: at launch, the program needs to check for missing Hotel Stats report
+[IR-650] - Inn at ST Marys hotel is giving a compset error when starting iRates
+
+﻿Version 1.0.20-670	(2013-10-10 09:29:48.468000)
+
+[IR-272] - Reporting that shows lost oportunities
+[IR-261] - Message about days missing in report doesn't specify the report name
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-617] - Rename 10 day availability to Room type availability
+
+Version 1.0.19-656	(2013-10-08 00:18:45.359000)
+
+[IR-644] - create compset module (revcaster) for Inn At St Marys  
+[IR-154] - Remove buckets from the program
+[IR-646] - 1.0.19-650 Testing Results
+[IR-639] - Find the way to install scheduled tasks on Mac OS X
+[IR-638] - Analyze windows installer to get scheduled tasks
+
+Version 1.0.19-649	(2013-09-30 19:06:16.613376)
+
+[IR-642] - 1.0.19-644 Testing Results
+[IR-640] - put new property in the downloader.properties file
+[IR-626] - Mac Version - Suggested Rack not showing button
+
+Version 1.0.19-637	(2013-09-26 16:29:27.039262)
+
+[IR-635] - program is unable to push the  rate for a specific date,but doesn't show any warning message 
+[IR-611] - Log files not always in uniform location. Change Log File location
+[IR-601] - create assembly for Hotel 44 - Quality Inn and Suites Ft. Belvoir 
+[IR-607] - Review AntCalcRackQ and AntAnalyzer algorithms
+[IR-21] - Channel mix
+[IR-316] - Create one more database converter to push the data from Opera-SQL file to iratesdb
+
+Version 1.0.18-633	(2013-09-18 19:17:37.259226)
+
+[IR-490] - Change default min rating to 1 instead of 0
+[IR-384] - Integrate with Revgenie
+[IR-491] - Create object model for competitors data
+[IR-631] - 1.0.18-622 Testing Results
+[IR-630] - program doesn't save user input in the restrictions block with 609 exe
+
+Version 1.0.18-624	(2013-09-18 13:02:07.392001)
+
+[IR-629] - Implement stat_dmy report exporter
+[IR-628] - Implement dialog wich shows stat_dmy data
+[IR-624] - Implement stat_dmy report downloader
+[IR-623] - Parse stat_dmy report from Opera
+[IR-625] - Put values from Opera stat_dmy report into iRates database
+[IR-622] - Schedule stat_dmy report for Ramada Gaslamp
+
+Version 1.0.18-620	(2013-09-16 21:04:09.197136)
+
+[IR-619] - Force the property analyzer.confThresh (confidence threshold og the algorithm) to work
+[IR-324] - Estimate "confidence level" of algoritm in order to take into account comp set prices in iRates recommendations
+[IR-627] - adjust patterns for Comfort Inn Manassas
+[IR-615] - 1.0.16-609 Testing Results 
+[IR-613] - Bug writing guidelines
+[IR-620] - always pull historic data for 1 year for every new assembly
+[IR-248] - Continuous integration
+[IR-42] - Incorrect graphs for past dates
+[IR-605] - Export button in Review Changes dialogue should save only one report
+[IR-502] - Review changes dialog does not ask the location where to store exported file
+[IR-616] - Wrong column headers in html report
+[IR-601] - create assembly for Hotel 44 - Quality Inn and Suites Ft. Belvoir 
+[IR-585] - Process wrong login/password in Choice
+[IR-436] - Create compset module (Revcaster) for Comfort Inn Manassas
+[IR-570] - Historic data for Choice - tool to pull report for all dates in the past
+[IR-498] - Calculate average booking window for properties using the historic reservation data
+[IR-9] - Alert (color coding?) if <10 rooms sold
+[IR-600] - Shutting down programm takes too long
+
+Version 1.0.17-609	(2013-09-03 20:54:05.362404)
+
+[IR-611] - Log files not always in uniform location. Change Log File location
+[IR-609] - For past days out of order rooms number is not loaded from hotel statistics report
+[IR-515] - Estimate usage web engine Gecko in the tasks of integration
+[IR-321] - Patterns failed error message when trying to recalculate. Ramada Carlsbad.
+[IR-487] - Table should show data in Stats Block for the past dates
+[IR-570] - Historic data for Choice - tool to pull report for all dates in the past
+
+Version 1.0.17-603	(2013-09-03 12:24:45.155668)
+
+[IR-610] - 1.0.17-599 Testing Results
+[IR-599] - 1.0.16-564 Testing Results
+[IR-602] - 1.0.16-574 Testing Results(Program does not start)
+[IR-424] - Availability by room type for Choice hotels should show 365 days, not 10 days
+[IR-612] - Min/Max Racks don't affect  the suggested rack
+[IR-579] - Add text to the "processing" message during push to Choice
+[IR-608] - Manassas and Clarion Hampton error on VMWare
+[IR-302] - Automatic Release Notes
+
+Version 1.0.17-598	(2013-08-29 15:58:44.542720)
+
+[IR-417] - Mac version of the most recent exe
+[IR-594] - Data in Stats block is displayed incorrectly for past dates
+[IR-6] - iRates performance report
+[IR-574] - The day a year after this day shows in Review Changes, but the user didn't make any changes for it.
+[IR-377] - Create Installer
+[IR-584] - Low Negative Revenue Potential number for Manassas
+[IR-566] - Revenue potential should be $0 when suggested rate is same as current rate
+[IR-606] - Main ant failed because pmesh == null in AntCalcRackQ
+[IR-603] - DataCenter.INSTANCE.getRoomNightsCollection() returns empty map.
+[IR-604] - create compset module (revcaster) for Quality Inn Fort Belvoir 
+[IR-589] - Check if software is already running, and notfiy
+
+Version 1.0.17-574	(2013-08-22 20:52)
+
+[IR-374] - Create iRates Data from Calendar Report
+[IR-500] - For past dates display all 4 graphs
+[IR-520] - Research the best way to protect the program from being used if canceled
+[IR-535] - Create protection system for standalone iRates
+[IR-593] - Hotel selection menu - bring the font back to normal
+[IR-595] - Details dialog fail to start
+[IR-596] - Occupancy in calendar doesn't update during updating
+[IR-598] - pushing doesn't work correctly for events and regular days with 564 exe
+
+Version 1.0.16-564
+
+[IR-372] - End-of-month report
+[IR-443] - Create function to get version inside program
+[IR-480] - Menu "Tablet" rename to "Table blocks"
+[IR-525] - Analyzer and reporter of usage statistics
+[IR-532] - Choice history report quality analysis
+[IR-536] - Encrypt properties file
+[IR-561] - Add message about data collection in the installer
+[IR-573] - Data is not loaded from reports for several most late future dates
+[IR-591] - create compset module (revcaster) for Ouray Comfort Suites
+[IR-588] - create assembly for Ouray Comfort Inn
+
+Version 1.0.15-501
+
+[IR-582] - Occasional Scenario Failed Pushing Error with Dipen Properties(Manassas, etc)
+
+Version 1.0.15-491
+
+[IR-404] - Daily pickup report shows incorrect numbers
+[IR-527] - Hibernate Hotel object and price mesh
+[IR-528] - Hotel changing process with a Hibernated architecture
+[IR-580] - Ramada Gaslamp not starting
+[IR-582] - Occasional Scenario Failed Pushing Error with Dipen Properties(Manassas, etc)
+[IR-446] - 1.0.12-185 - testing results
+[IR-554] - create compset module (revcaster) for Ramada Limited San Diego Airport 
+
+
+Version 1.0.15-485
+
+[IR-565] - push for Quality Inn Coliseum hotel doesn't work
+
+Version 1.0.15-482
+
+[IR-574] - The day a year after this day shows in Review Changes, but the user didn't make any changes for it.
+[IR-576] - 1.0.15-451 Testing Results
+[IR-577] - 1.0.15-457 Test Results
+[IR-517] - 1.0.15-331 Results
+
+Version 1.0.15-457
+
+[IR-522] - Make consistent decision for newly created RoomNight
+[IR-556] - Implement auto-saving of user decision
+[IR-575] - created compset component (revcaster) for Comfort Suites Rochester 
+[IR-473] - assembly for Comfort Suites The Colony - Choice
+[IR-554] - create compset module (revcaster) for Ramada Limited San Diego Airport
+[IR-565] - push for Quality Inn Coliseum hotel doesn't work
+
+Version 1.0.15-445
+
+[IR-532] - Choice history report quality analysis
+[IR-543] - program is suggesting different prices for the same day withing  5 minutes time frame. Choice hotels
+[IR-566] - Revenue potential should be $0 when suggested rate is same as current rate
+[IR-569] - Numbers in Month Total column are inaccurate for Choice properties
+[IR-571] - Update irates.properties file with analizator.algorithm=[precise|rough]
+[IR-572] - 1.0.15-440 Testing Results
+
+Version 1.0.15-436
+
+[IR-473] - assembly for Comfort Suites The Colony - Choice
+[IR-474] - assembly for Econolodge OKC - Choice
+[IR-495] - Pressing Cancel on incorrect Choice Password caused iRates to close but not reopen
+[IR-501] - Rename Show details and Estimate group rate
+[IR-518] - Rename "Report" to "Decision summary report"
+[IR-523] - Need to be able to email review changes report
+[IR-532] - Choice history report quality analysis
+[IR-543] - program is suggesting different prices for the same day withing  5 minutes time frame. Choice hotels
+[IR-555] - 1.0.15-390 Testing Results
+[IR-563] - push failed for Comfort Inn Gaslamp today
+[IR-564] - irates.properties update
+[IR-568] - 1.0.15-435 Won't Run
+[IR-505] - create assembly for Quality Inn Near Hampton Coliseum
+[IR-506] - create an assembly for Clarion Inn & Suites by Hampton 
+[IR-533] - Correction to transient rooms in Stats block (Choice properties)
+[IR-358] - Multiplier for taking into account group blocks
+[IR-476] - create compset module (revcaster) for Econolodge OKC
+[IR-545] - create assembly for Hotel 42 -Comfort Suites Rochester MN- CHOICE
+[IR-468] - Create arbitrary rack grid
+[IR-529] - 1.0.15-368.exe Testing Result s
+[IR-530] - show error with loading the report
+[IR-531] - 1.0.15-371.exe Testing Results
+[IR-542] - pushing feature doesn't work for the Quality Inn Coliseum hotel for the weekends
+[IR-544] - Econolodge hotel , has not adequate total occupied rooms number.
+[IR-546] - The Colony hotel: has wrong pick up dynamic data.
+[IR-549] - 1.0.15-380 Testing Results
+[IR-6] - iRates performance report
+[IR-230] - Автоматизировать перенастройку паттернов у клиента
+[IR-302] - Automatic Release Notes
+[IR-342] - Create automatic installation iRates on windows test machine
+[IR-352] - Success message after Push to Choice
+[IR-375] - Excel file generation for reports
+[IR-427] - For past dates, transient rooms available is different from Total
+[IR-428] - Correct numbers in Table (Choice)
+[IR-455] - 1.0.13-214 Testing Results
+[IR-457] - Push to Choice for events
+[IR-461] - 1.0.13-225 Testing
+[IR-469] - Load price grid from Choice
+[IR-489] - create a new parameter for compset average - multiplier
+[IR-499] - Updating Choice password saves and shows all data the first time
+[IR-503] - If specified -t option the program works in wrong way
+[IR-504] - Critical Issue with Manassas. Error when pushing
+[IR-507] - Installer on XP
+[IR-508] - create compset module (revcaster) for The Clarion Inn & Suites Hampton Convention Center
+[IR-509] - create compset module(revcaster)  for Quality Inn Hampton Coliseum. 
+[IR-514] - minor issue with 331 exe
+[IR-519] - create assembly for Quality Inn Liverpool
+[IR-521] - create compset module(revcaster) for Quality Inn Liverpool hotel
+[IR-524] - Incorrect data in Transient rooms and total occupied rooms (Choice properties)
+[IR-526] - Improper Grammar on Send Usage Info
+[IR-481] - Review patterns for Comfort Inn Gaslamp
+[IR-511] - Typo in the Push to choice success message
+
+Version 1.0.14-284
+
+[IR-457] - Push to Choice for events
+[IR-474] - assembly for Econolodge OKC - Choice
+[IR-462] - R-460 History report for Choice's Comfort Inn Park Center Dallas
+[IR-69] - Keeping same blocks in Table open/closed when re-opening the program
+[IR-439] - Choice version: when sold out, Suggested Rack should match the current rack
+[IR-353] - Set stay restrictions only for medium and high ratings
+[IR-449] - Remember Hidden blocks settings
+[IR-432] - Automate scheduled tasks
+[IR-392] - Monthly user usage info sending
+[IR-226] - Pushing data to Choice PMS
+[IR-452] - Pickup dynamics - incorrect data. Choice hotels.
+[IR-433] - Make warning to access scheduler in installer
+[IR-486] - When iRates starts the first time for a Choice hotel it doesn't display any information
+[IR-47] - Program usage email reporting
+[IR-478] - IR-473 Choice history report is needed
+[IR-479] - IR-472 Choice history report is needed
+[IR-467] - IR-47 Write program that runs report generators an sens e-mails from scheduler
+[IR-466] - IR-47 Write program to generate week alert report
+[IR-465] - IR-47 Write progran with CLI to send e-mails
+[IR-484] - Create compset module (revcaster) for Comfort Suites The Colony
+[IR-454] - Create compset module (revcaster) for Quality Inn Naval Base
+[IR-472] - assembly for Quality Inn Lake Elsinore
+[IR-449] - Remember Hidden blocks settings
+[IR-494] - Remove some persons and place reference to Release folder
+[IR-460] - assembly for Comfort Inn Park Center Dallas
+[IR-473] - assembly for Comfort Suites The Colony - Choice
+[IR-485] - create compset module (revcaster) for Quality Inn Lake Elsinore
+[IR-450] - assembly for Quality Inn Naval Base
+[IR-483] - Travlynx data exchange
+[IR-412] - Program to download Reservation Activity Report from Choice
+[IR-482] - Create an installer for Test Hotel based on the enclosed database
+[IR-476] - create compset module (revcaster) for Econolodge OKC
+[IR-471] - Create compset module (revcaster) for Comfort Suites Park Center
+[IR-458] - No e-mail fro Choice hotels. It is impossible to send any info.
+
+Version 1.0.13-229
+
+[IR-459] - on 1.0.13-225 there's no "minimize" icon in the top right corner
+[IR-457] - Push to Choice for events
+[IR-456] - Program will not start with Comfort Inn Sacramento
+[IR-451] - Transient and Total rooms available for Choice hotels
+[IR-389] - Ability to update login and password for Choice properties within the GUI
+[IR-290] - Recreate calendar on hotel change
+[IR-453] - Pushing to Choice with cancel options
+[IR-454] - Create compset module (revcaster) for Quality Inn Naval Base
+[IR-437] - Build Hotel 32 - Howard Johnson Ocala
+[IR-150] - Develop "Group displacement analysis" module
+[IR-438] - https://e.mail.ru/cgi-bin/msglist#readmsg?id=13684626640000000878&folder=2
+[IR-429] - Comfort Inn Sacramento bugs - push issues
+[IR-421] - Comfort Inn Austin bugs
+[IR-444] - Create compset module (Revcaster) for Howard Johnson Ocala
+[IR-447] - Move Min/Max settings to Settings menu from Actions
+[IR-448] - Remove Audit from the Actions menu
+[IR-31] - Line widths in Tablet
+[IR-398] - Add "About" field to the Menu with the program's version information
+[IR-422] - Comfort Inn Sacramento bugs - room types
+[IR-217] - Develop stay restrictions recommendation module
+[IR-413] - assembly for Comfort Inn Manassas
+[IR-430] - Create "Exchange" on iRates server
+[IR-426] - Correct Revenue numbers in table (Opera)
+[IR-107] - Hiding and unhiding blocks in the Table
+[IR-435] - Issues with loading Rates report (Choice)
+[IR-436] - Create compset module (Revcaster) for Comfort Inn Manassas
+[IR-415] - not showing suggested rate graph
+[IR-272] - Reporting that shows lost oportunities
+[IR-319] - Daily email with price recommendations to the user  
+
+Version 1.0.12-175
+[IR-425] - Comfort Inn Gaslamp doesn't display Group blocks data
+[IR-344] - Relocate all the previous releases
+[IR-431] - Create usage@i-rates.com
+[IR-340] - Create automatic build for iRates 1
+[IR-422] - Comfort Inn Sacramento bugs
+[IR-423] - Ramada Gaslamp compset issue
+[IR-301] - Select the system for program installer
+[IR-327] - Comfort Inn - scenario failed - doesn't start
+[IR-365] - Remove differentiation between Control and Display in Group displacement module
+[IR-368] - Create common irates.properties
+[IR-390] - Check pdf while loading
+[IR-399] - Compset block does not open (no data) in version 1.0.12-98
+[IR-401] - IR-400] - History report for Choice's Comfort Inn Socramento
+[IR-358] - Multiplier for taking into account group blocks
+[IR-136] - Display month total in the Table
+[IR-418] - "Deleting old meesages" when updating takes too long
+[IR-419] - Sales Dynamics block needs to display Transient rooms available, not Total rooms available
+[IR-420] - Comfort Inn scenario failed when starting the program from "Hotels" menu in GUI
+[IR-391] - Build Software for Hotel 28 - Ramada Anaheim
+[IR-395] - Corrections to GUI of 1.0.11-93 version
+[IR-388] - On demand update button for Choice properties
+[IR-416] - Create new e-mail in i-rates.com domain
+[IR-410] - Upload distributive to Google drive
+[IR-408] - Create compset component (Revcaster) for Comfort Inn & Suites Sacramento
+[IR-409] - Create compset module (Revcaster) for Comfort Inn Austin
+[IR-406] - assembly for Comfort Inn Austin
+[IR-400] - assembly for Comfort Inn Sacramento
+[IR-414] - May 2 doesn't exist in 1.0.12-130
+[IR-332] - Update for Comfort Inn Choice doesn't work
+[IR-402] - More modifications to the way suggested changes are displayed
+[IR-362] - Group displacement module: rename GRACK to Suggested Rack
+[IR-407] - Comfort Inn doesn't start with 1.0.12-118 exe
+[IR-403] - Day Selection in Table (Green highlight) only when clicking on not editable fields
+[IR-397] - Rename "Channel Set" into "Rate Plan Tiers" in GUI
+[IR-357] - Table view: when selecting a day - highlight the whole column
+[IR-50] - increase ZFileChooser button height
+[IR-354] - IR-47] - Program usage emails reporting
+[IR-405] - Application requires Administrative Access
+[IR-329] - Problems with downloading reports from email (BW King Charles and Ramada Jacksonvile)
+[IR-94] - improve calendar keyboard navigation
+[IR-383] - Modification to the way suggested changes are highlighted in the Table
+[IR-270] - Color code dates with different demand levels
+[IR-361] - Add selection of Group displacement module in the Table view (right click)
+[IR-376] - Default booking window = 60
+[IR-394] - Change Opt rev and Curr rev to one line: Revenue Potential
+[IR-396] - No logic in showing/not showing suggested stay restrictions
+[IR-382] - Add $ to the values in the Predictor lines in the Table
+[IR-312] - Accepting price recommendation from calendar (each cell/date)
+
+Version 1.0.11
+Bug
+[IR-298] - Scenario failed when trying to save with Choice hotel database
+[IR-327] - Comfort Inn - scenario failed - doesn't start
+[IR-350] - When 0 rooms left - rating changes to the lowest
+[IR-359] - Create special property in irates.properties file which gives the name of "minimum days of stay" restriction.
+[IR-369] - iRates is not loading for Island Palms hotel
+[IR-380] - Update Airdaire database
+Task
+[IR-226] - Pushing data to Choice PMS
+[IR-231] - Algorithm: start lowering rate if no reservations booked for a particular day
+[IR-262] - Differentiating group and transient rooms in the algorithm
+[IR-266] - Reporting
+[IR-272] - Reporting that shows lost oportunities
+[IR-319] - Daily email with price recommendations to the user
+[IR-320] - Sensitivity of algorithm for 90] -days vs the rest of the year ahead.
+[IR-351] - Make rate recommendations that are based on compset rates less sensitive
+[IR-352] - Success message after Push to Choice
+[IR-353] - Set stay restrictions only for medium and high ratings
+[IR-355] - Table view needs to open on the current day
+[IR-356] - Table view: current day identification - change from red font to highlighting
+[IR-358] - Multiplier for taking into account group blocks
+[IR-368] - Create common irates.properties
+[IR-370] - Revise patterns for Best Western King Charles
+[IR-372] - End-of-month report
+[IR-373] - iRates Table Data Report
+[IR-374] - Create iRates Data from Calendar Report
+[IR-375] - Excel file generation for reports
+[IR-376] - Default booking window = 60
+[IR-379] - Create compset module for Best Western King Charles
+Sub-task
+[IR-354] - Program usage emails reporting
