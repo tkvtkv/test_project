@@ -1,3 +1,6 @@
+Version 1.0.32-2293	(2019-03-04 00:01:15.290000)
+Test for Git
+
 Version 1.0.32-2292	(2019-01-26 00:01:15.290000)
 
 [IR-2419] - Replace RevCaster to OTA Insight API in iRates
